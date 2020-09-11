@@ -16,8 +16,12 @@ I also work on citizen science. We are currently running the SuperWASP Variable 
 
 Previously, my research focused on a different aspect of stellar variability: rotation. I investigated unique stars displaying a both a rotational modulation in their light curve, and X-ray activity, and characterised their rotation-activity relation.
 
+You can find out more about my research by click on "Research" and "Publications".
+
 
 Space Skills
 ======
 
-Alongside my research, I co-direct the Space Skills Alliance. We are the think-tank and backbone organisation addressing the UK's space skills shortage.
+Alongside my research, I co-direct the Space Skills Alliance. We are the think-tank and backbone organisation addressing the UK's space skills shortage. You can check out our latest research [here](https://spaceskills.org/).
+
+Previously, I ran the award-winning website, [SpaceCareers.uk](https://spacecareers.uk/).
