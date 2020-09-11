@@ -1,19 +1,23 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Research"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me.
+I am a third year PhD student at The Open University, working on stellar variability.
 
-Other subtitle
-======
-More.
+My current research focuses on binary stars in the SuperWASP all sky survey. We have identified a set of candidate stars that appear to be long-period examples of near-contact eclipsing binaries, with orbital periods of up to a month or more. I have spent the last two years running a photometric and spectroscopic follow-up campaign of these candidate binaries.
 
-Other subtitle
+I also work on citizen science. We are currently running the SuperWASP Variable Stars Zooniverse project, aiming to classify 1.6 million light curves of variable stars. We will be using these classifications to find the weirdest stars in the night sky.
+
+Previously, my research focused on a different aspect of stellar variability: rotation. I investigated unique stars displaying a both a rotational modulation in their light curve, and X-ray activity, and characterised their rotation-activity relation.
+
+
+Space Skills
 ======
-Even more.
+
+Alongside my research, I co-direct the Space Skills Alliance. We are the think-tank and backbone organisation addressing the UK's space skills shortage.
