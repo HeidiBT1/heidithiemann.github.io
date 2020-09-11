@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Research"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -24,4 +24,6 @@ Space Skills
 
 Alongside my research, I co-direct the Space Skills Alliance. We are the think-tank and backbone organisation addressing the UK's space skills shortage. You can check out our latest research [here](https://spaceskills.org/).
 
-Previously, I ran the award-winning website, [SpaceCareers.uk](https://spacecareers.uk/).
+Previously, I lead the careers website, [SpaceCareers.uk](https://spacecareers.uk/).
+
+I am also a Senior Mentor at Space School UK.
