@@ -9,51 +9,73 @@ redirect_from:
 
 
 
+Research Experience
+======
+* Ph.D in Variable Stars in the SuperWASP All Sky Survey (2017-2021)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University of Leicester (2013 - 2017)
+  * 2:1 (Hons) MPhys Physics with Space Science and Technology
 
-Work experience
+* Nara Women’s University (August 2016)
+  * Summer Research Programme
+  
+Journal publications
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Thiemann, Heidi B., Norton, A.J., Kolb, U.C., The stellar rotation-activity relation for a sample of SuperWASP field stars, 2020, PASA
+* Paper 2
+* Paper 3
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Other publications (non-refereed)
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Dudley, J., Thiemann, Heidi B., Assessing the Quality of Space Job Adverts, 2020, Space Skills Alliance
+* Thiemann, Heidi B., Dudley, J., Skills demand for early career space jobs, 2020, Space Skills Alliance
+* Dudley, J., Thiemann, Heidi B., Towards a space competencies taxonomy, 2020, Space Skills Alliance
+* Robson, D., et al, Assessing the Impact of Space School UK, 2019, Proceedings of the 3rd Symposium on Space Educational Activities, pp. 138-144
 
-Publications
+Seminars, Conference Talks, and Posters
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* 2020 - First data release of the SuperWASP Variable Stars Zooniverse project, ADASS XXX, 2020 (poster)
+* 2020 - Red novae candidates: An investigation of long-period near-contact giant binaries, RAS Early Career Online Poster Exhibition, 2020 (poster)
+* 2020 - Red novae candidates? An investigation of long-period near-contact giant binaries, EAS 2020
+* 2019 - The rotation-activity relation, NAM 2019, University of Lancaster (poster) 
+* 2018 - Initial results of the rotation-activity relation, Time-Domain Astronomy, ESAC (poster)
+
+Invited Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* 2020 - Megaconstellations and Astronomy, 2nd Summit for Space Sustainability 
+* 2019 - Data science in the space sector, DISCnet Annual Showcase
+* 2019 - Stellar variability in SuperWASP, SAAO colloquia series 
+
+Supervision Experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* 
+
+Funding
 ======
-* Currently signed in to 43 different slack teams
+* 
+
+Successful Proposals
+======
+* 
+
+Observing Experience
+======
+* 
+
+Awards and Achievements
+======
+* 
+
+Service and  Impact Activities
+======
+* 
+
+Public Engagement
+======
+* 
+
+Professional Affiliations
+======
+* 
