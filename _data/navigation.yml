@@ -6,8 +6,8 @@ main:
   - title: "Observing"
     url: /observing/    
 
- # - title: "Teaching"
- #   url: /teaching/    
+  - title: "Space Skills"
+    url: /spaceskills/    
     
  # - title: "Portfolio"
  #   url: /portfolio/
