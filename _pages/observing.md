@@ -14,7 +14,7 @@ Photometry
 * PIRATE
   * PI, over 650 hours of remote telescope time (2018 - present)
 * Las Cumbres Observatory
-  * Various intruments, PI, 28 hours (2019)
+  * Various instruments, PI, 28 hours (2019)
 * piCETL
   * Co-I, 2 nights in-person (2016)
 
