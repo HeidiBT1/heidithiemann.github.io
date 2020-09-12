@@ -1,11 +1,10 @@
 ---
-permalink: /observing/
+layout: archive
 title: "Observing"
-excerpt: "Observing"
+permalink: /observing/
 author_profile: true
-redirect_from: 
-  - /observing/
-  - /observing.html
+redirect_from:
+  - /observing
 ---
 
 
