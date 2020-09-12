@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Your Sidebar Name"
   avatar           : "heidi_web.jpg"
-  bio              : "Astronomer doing a PhD on variable stars at The Open University."
+  bio              : #"Astronomer doing a PhD on variable stars at The Open University."
   location         : "Milton Keynes, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
