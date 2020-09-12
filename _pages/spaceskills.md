@@ -19,20 +19,18 @@ We've been active since September 2019, and since then we've published analysis 
 
 You can check out our work [here](https://spaceskills.org/).
 
-Cross-sector collaboration
+SpaceCareers.uk
+======
+In 2017, I took over as the head of SpaceCareers.uk after over a year of volunteering for the site. Myself and my team made SpaceCareers.uk the go-to resource for the space sector, and we now have over 10,000 monthly users. We've received multiple awards for our work, from the Prime Minister, BEIS, and others. I've organised national careers events for young people, and spent countless hours improving opportunities for others who want to join the space sector.
+
+Panels and collaborations
 ======
 I'm currently involved in a number of space sector panels and organisations:
 * Member of Space Skills Advisory Panel (SSAP), advising the UK Space Agency on skills provision
 * Member of the Space Universities Network (SUN)
 * Social Media Manager for Women In Aerospace-Europe (WIA-E)
 * Advisor to SpaceCareers.uk
-* Represented btoh the Royal Astronomical Society and The Open University in the Voice of the Future events in the House of Commons
-
-
-SpaceCareers.uk
-======
-Managed a team of 10 people to build and grow SpaceCareers.uk, making it the go-to resource for the space sector, reaching over 1.5 million page views. Organised national careers events for young people.
-
+* Represented both the Royal Astronomical Society and The Open University in the Voice of the Future events in the House of Commons
 
 Space School UK
 ======
@@ -40,7 +38,7 @@ Since 2014, I've been working as a mentor at Space School UK, a summer school fo
 
 We published a [paper on the impact of Space School UK](https://arxiv.org/ftp/arxiv/papers/2006/2006.06680.pdf) in 2019.
 
-Public engagament
+Public engagement
 ======
 Over the years, I've been involved in many space and STEM public engagement and outreach activities. These include:
 * Space Speaker in your Classroom
@@ -49,5 +47,5 @@ Over the years, I've been involved in many space and STEM public engagement and 
 * Space Camp UK
 * Soapbox Science
 
-During my time as a volunteer then member of the Executive Committee for UKSEDS, I've also lead the development and organisation of national competitions, events, and conferences for thousands of young people interested in the space industry and space careers.
+During my time as a volunteer then member of the Executive Committee for UKSEDS, I've also led the development and organisation of national competitions, events, and conferences for thousands of young people interested in the space industry and space careers.
 
