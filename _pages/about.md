@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Heidi, a third year PhD student in the School of Physical Sciences at The Open University, UK. 
+Hello! I'm Heidi, a third year PhD student in the School of Physical Sciences at The Open University in the UK. 
 
 
 Astronomy
@@ -16,7 +16,7 @@ Astronomy
 
 My research focuses on different aspects of stellar variability in the SuperWASP all-sky survey. I'm currently working on near-contact binary stars and previously I've worked on the rotation-activity relation. 
 
-I also dabble in citizen science, and the threat megaconstellations pose to ground-based astronomy. You can find out more by clicking on [Research](https://heidibt1.github.io/research/). 
+I also dabble in citizen science and the threat megaconstellations pose to ground-based astronomy. You can find out more by clicking on [Research](https://heidibt1.github.io/research/). 
 
 
 Space Skills
