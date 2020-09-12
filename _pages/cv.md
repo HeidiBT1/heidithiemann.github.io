@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 
-You can download a recent version of my CV here. If you want a more up-to-date version, please get in touch.
+You can download a recent version of my CV [here](http://academicpages.github.io/files/CV_HeidiThiemann.pdf). If you want a more up-to-date version, please get in touch.
+
