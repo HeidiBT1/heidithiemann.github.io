@@ -36,7 +36,7 @@ Previously, my research focused on a different aspect of stellar variability: ro
 
 In general, the faster a star is rotating, the greater its X-ray flux. At a certain point, this relationship changes, and the X-ray flux stays constant even with an increased rotation rate. For the extremely fast rotating stars, the relationship breaks down, and the X-ray flux decreases with an increased rotation rate. This is known as the rotation-activity relation. 
 
-I used observations from SuperWASP, ASAS-SN, and XMM-Newton to investigate unique stars displaying a both a rotational modulation in their light curve, and with a corresponding X-ray flux detection, and characterised the rotation-activity relation.
+I used observations from SuperWASP, ASAS-SN, and XMM-Newton to investigate unique stars displaying both a rotational modulation in their light curve, and with a corresponding X-ray flux detection, and characterised the rotation-activity relation.
 
 You can check out our paper on the [rotation-activity relation here](https://arxiv.org/pdf/2008.09066.pdf).
 
