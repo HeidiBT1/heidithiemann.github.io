@@ -24,6 +24,6 @@ Space Skills
 
 Alongside my research, I co-direct the [Space Skills Alliance](https://spaceskills.org/). We are the think-tank and backbone organisation addressing the UK's space skills shortage. Check out our latest research.
 
-Previously, I've lead [SpaceCareers.uk](https://spacecareers.uk/), the go-to careers resource for the space sector. Our work has been recognised by awards from the Prime Minister and BEIS.
+Previously, I've led [SpaceCareers.uk](https://spacecareers.uk/), the go-to careers resource for the space sector. Our work has been recognised by awards from the Prime Minister and BEIS.
 
 I'm also a Senior Mentor at [Space School UK](http://spaceschool.co.uk/), and involved in many other STEM careers schemes.
