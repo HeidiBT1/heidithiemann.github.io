@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+Here's a short summary of what I've been working on during my PhD. Please get in touch if you'd like to know more.
 
 Binary stars
 ======
