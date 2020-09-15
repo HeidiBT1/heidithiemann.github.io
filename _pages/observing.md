@@ -11,7 +11,7 @@ Being hands on with a telescope is one of my favourite parts of astronomy. Here'
 
 Photometry
 ======
-* [PIRATE](http://pirate.open.ac.uk/)
+* [PIRATE](https://www.telescope.org/)
   * PI, over 650 hours of remote telescope time (2018 - present)
 * [Las Cumbres Observatory](https://lco.global/)
   * Various instruments, PI, 28 hours (2019)
