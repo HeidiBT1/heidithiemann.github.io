@@ -20,7 +20,7 @@ Photometry
 
 Spectroscopy
 ======
-* 74"
+* [74"](https://www.saao.ac.za/astronomers/1-9m/)
   * SpUpNIC, PI, 14 nights in-person (2019)
 * SALT
   * RSS, Co-I, 2.6 hours (2020)
@@ -30,3 +30,5 @@ Spectroscopy
   * FRODOSpec, PI, 6.1 hours (2020)
   * FRODOSpec, PI, 6.6 hours (2020)
   * FRODOSpec, PI, 21.2 hours (2019)
+  
+  ![Me observing with the 74" in South Africa](/images/telescope_74.jpg)
