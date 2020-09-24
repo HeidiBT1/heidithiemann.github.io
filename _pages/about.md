@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Heidi, a third year PhD student in the School of Physical Sciences at The Open University in the UK. 
+Hello! I'm Heidi Thiemann (pronounced Tee-man), a fourth year PhD student in the School of Physical Sciences at The Open University in the UK. 
 
 
 Astronomy
