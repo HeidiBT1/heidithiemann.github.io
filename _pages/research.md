@@ -16,6 +16,8 @@ From searches of the SuperWASP and ASAS-SN catalogues, we have identified a set 
 
 I'm now coming to the end of a 2 year long programme of multi-colour photometry of these targets using the LCO robotic telescopes and The Open University's own PIRATE observatory. I've taken spectroscopy of northern candidates with the Liverpool Telescope, and southern candidates using the SAAO 74-inch telescope and SALT. By combining the multi-colour photometry with radial velocity spectroscopy, I've been able to model the parameters (masses, radii, temperatures, etc.) of the stellar components using the Wilson-Devinney code, implemented in the PHOEBE modelling package. I'm currently working on modelling the evolution of the binaries using MESA and binary_c. 
 
+Watch this space for our upcoming paper on near contact red giant eclipsing binaries.
+
 Citizen science
 ======
 
@@ -28,6 +30,8 @@ Citizen scientists are asked to classify light curves as simplified variable sta
 The classification of periodic variables based solely on the shape of the photometric light curve does not always provide a conclusive and unique variable type. However, it can be a good indication of the most likely type and it is useful for identifying interesting candidates which are worth following up. 
 
 You can try your hand at classifying variable stars [here](https://www.zooniverse.org/projects/ajnorton/superwasp-variable-stars).
+
+Watch this space for our upcoming papers on the first data release of SuperWASP Variable Stars, and using CNNs to improve citizen science classifications of variable stars.
 
 The rotation-activity relation
 ======
@@ -44,3 +48,5 @@ Megaconstellations
 ======
 
 Megaconstellations are a big threat to ground-based astronomy. I'm currently collaborating with an international team of astronomers to tackle the issue from an optical-astronomy point of view.
+
+Watch this space for our upcoming research notes on the affordability of megaconstellation internet access.
