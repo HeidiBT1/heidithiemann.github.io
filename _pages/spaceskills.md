@@ -17,7 +17,9 @@ I co-founded the Space Skills Alliance with Joseph Dudley, which exists to tackl
 
 We've been active since September 2019, and since then we've published analysis on skills demands for early career space jobs, the quality of space jobs, a space competencies taxonomy, and more.
 
-You can check out our work [here](https://spaceskills.org/).
+We've just launched the 2020 Space Census, will, for the first time, establish the demographic make-up of UK space sector employees across industry, universities and government organisations. You can take part in the [2020 Space Census here](http://census.spaceskills.org/). 
+
+You can check out our other work [here](https://spaceskills.org/).
 
 SpaceCareers.uk
 ======
