@@ -42,7 +42,7 @@ In general, the faster a star is rotating, the greater its X-ray flux. At a cert
 
 I used observations from SuperWASP, ASAS-SN, and XMM-Newton to investigate unique stars displaying both a rotational modulation in their light curve, and with a corresponding X-ray flux detection, and characterised the rotation-activity relation.
 
-You can check out our paper on the rotation-activity relation [here](https://arxiv.org/pdf/2008.09066.pdf).
+You can check out our paper on the rotation-activity relation [here](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/stellar-rotationactivity-relation-for-a-sample-of-superwasp-and-asassn-field-stars/0B2772DE14A99FC44E73F32704D3FA8B).
 
 Megaconstellations
 ======
