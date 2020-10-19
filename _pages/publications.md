@@ -8,7 +8,7 @@ redirect_from:
   - /punblications.html
 ---
 
-On this page you can find a selection of my publications, talks and public speaking events, and science-related baking.
+On this page you can find a selection of my publications, talks and public outreach, and science-related baking.
 
 Publications
 ======
