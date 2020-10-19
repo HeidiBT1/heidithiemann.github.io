@@ -10,7 +10,7 @@ redirect_from:
 
 On this page you can find a selection of my publications, talks and public outreach, and science-related baking.
 
-Publications
+Publications and posters
 ======
 
 2020 - SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science
@@ -34,7 +34,7 @@ Publications
 2018 - [Initial results of the rotation-activity relation](https://www.cosmos.esa.int/documents/332006/1602912/AbstractBook.pdf)
 
 
-Talks
+Recorded talks
 ======
 October 2020 - ["An expert discussion about Venus"](https://www.youtube.com/watch?v=dhhvbOaayhY)
 
