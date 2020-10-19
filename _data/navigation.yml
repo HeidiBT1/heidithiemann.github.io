@@ -9,8 +9,8 @@ main:
   - title: "Space Skills"
     url: /spaceskills/    
     
- # - title: "Portfolio"
- #   url: /portfolio/
+  - title: "Publications"
+    url: /publications/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
