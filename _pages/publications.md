@@ -13,7 +13,26 @@ On this page you can find a selection of my publications, talks and public outre
 Publications
 ======
 
-[The stellar rotation–activity relation for a sample of SuperWASP and ASAS-SN field stars](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/stellar-rotationactivity-relation-for-a-sample-of-superwasp-and-asassn-field-stars/0B2772DE14A99FC44E73F32704D3FA8B)
+2020 - SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science
+
+2020 - [The stellar rotation–activity relation for a sample of SuperWASP and ASAS-SN field stars](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/stellar-rotationactivity-relation-for-a-sample-of-superwasp-and-asassn-field-stars/0B2772DE14A99FC44E73F32704D3FA8B)
+
+2020 - [Red novae candidates: An investigation of long-period near-contact giant binaries](https://ras.ac.uk/poster-contest/heidi-thiemann)
+
+2020 - [Assessing the quality of space job adverts](https://spaceskills.org/job-advert-quality)
+
+2020 - [Skills demand for early career space jobs](https://spaceskills.org/skills-demand-for-early-career-space-jobs)
+
+2020 - [Towards a space competencies taxonomy](https://spaceskills.org/towards-a-space-competencies-taxonomy)
+
+2019 - [Assessing the Impact of Space School UK](https://arxiv.org/abs/2006.06680)
+
+2019 - [The rotation-activity relation](https://nam2019.org/posters/details/32/160)
+
+2019 - [Diversity in student space activities in the UK](https://www.hou.usra.edu/meetings/lpsc2019/eposter/2380.pdf)
+
+2018 - [Initial results of the rotation-activity relation](https://www.cosmos.esa.int/documents/332006/1602912/AbstractBook.pdf)
+
 
 Talks
 ======
