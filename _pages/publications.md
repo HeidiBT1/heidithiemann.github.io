@@ -13,33 +13,33 @@ On this page you can find a selection of my publications, talks and public outre
 Journal publications
 ======
 
-**Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster (2021), SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science, (in prep)
+**Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster (2021), _SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science_, (in prep)
 
 **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb (2020), _[The stellar rotation–activity relation for a sample of SuperWASP and ASAS-SN field stars](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/stellar-rotationactivity-relation-for-a-sample-of-superwasp-and-asassn-field-stars/0B2772DE14A99FC44E73F32704D3FA8B)_, PASA
 
 Other publications (non-refereed)
 ======
 
-Joseph Dudley, **Heidi B. Thiemann** (2020), [Assessing the quality of space job adverts](https://spaceskills.org/job-advert-quality), Space Skills Alliance
+Joseph Dudley, **Heidi B. Thiemann** (2020), _[Assessing the quality of space job adverts](https://spaceskills.org/job-advert-quality)_, Space Skills Alliance
 
-**Heidi B. Thiemann**, Joseph Dudley (2020), [Skills demand for early career space jobs](https://spaceskills.org/skills-demand-for-early-career-space-jobs), Space Skills Alliance
+**Heidi B. Thiemann**, Joseph Dudley (2020), _[Skills demand for early career space jobs](https://spaceskills.org/skills-demand-for-early-career-space-jobs)_, Space Skills Alliance
 
-Joseph Dudley, **Heidi B. Thiemann** (2020), [Towards a space competencies taxonomy](https://spaceskills.org/towards-a-space-competencies-taxonomy), Space Skills Alliance
+Joseph Dudley, **Heidi B. Thiemann** (2020), _[Towards a space competencies taxonomy](https://spaceskills.org/towards-a-space-competencies-taxonomy)_, Space Skills Alliance
 
-Daniel Robson, Henry Lau, Áine O'Brien, Lucy Williams, Ben Sutlieff, **Heidi B. Thiemann**, Louise McCaul, George Weaver, Tracey Dickens (2019), [Assessing the Impact of Space School UK](https://arxiv.org/abs/2006.06680), Proceedings of the 3rd Symposium on Space Educational Activities, pp. 138-144
+Daniel Robson, Henry Lau, Áine O'Brien, Lucy Williams, Ben Sutlieff, **Heidi B. Thiemann**, Louise McCaul, George Weaver, Tracey Dickens (2019), _[Assessing the Impact of Space School UK](https://arxiv.org/abs/2006.06680)_, Proceedings of the 3rd Symposium on Space Educational Activities, pp. 138-144
 
 
 Posters
 ======
-SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science, 2020, ADASS XXX
+_SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science_, 2020, ADASS XXX
 
-[Red novae candidates: An investigation of long-period near-contact giant binaries](https://ras.ac.uk/poster-contest/heidi-thiemann), 2020, RAS Early Career Online Poster Exhibition
+_[Red novae candidates: An investigation of long-period near-contact giant binaries](https://ras.ac.uk/poster-contest/heidi-thiemann)_, 2020, RAS Early Career Online Poster Exhibition
 
-[The rotation-activity relation](https://nam2019.org/posters/details/32/160), 2019, National Astronomy Meeting
+_[The rotation-activity relation](https://nam2019.org/posters/details/32/160)_, 2019, National Astronomy Meeting
 
-[Diversity in student space activities in the UK](https://www.hou.usra.edu/meetings/lpsc2019/eposter/2380.pdf), 2019, 50th Lunar and Planetary Science Conference
+_[Diversity in student space activities in the UK](https://www.hou.usra.edu/meetings/lpsc2019/eposter/2380.pdf)_, 2019, 50th Lunar and Planetary Science Conference
 
-[Initial results of the rotation-activity relation](https://www.cosmos.esa.int/documents/332006/1602912/AbstractBook.pdf), 2018, Time-Domain Astronomy: A High Energy View
+_[Initial results of the rotation-activity relation](https://www.cosmos.esa.int/documents/332006/1602912/AbstractBook.pdf)_, 2018, Time-Domain Astronomy: A High Energy View
 
 Recorded talks and public engagement
 ======
