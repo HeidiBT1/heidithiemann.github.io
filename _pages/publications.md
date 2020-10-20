@@ -41,7 +41,7 @@ Posters
 
 2018 - [Initial results of the rotation-activity relation](https://www.cosmos.esa.int/documents/332006/1602912/AbstractBook.pdf), Time-Domain Astronomy: A High Energy View
 
-Recorded talks
+Recorded talks and public engagement
 ======
 October 2020 - ["An expert discussion about Venus"](https://www.youtube.com/watch?v=dhhvbOaayhY)
 
