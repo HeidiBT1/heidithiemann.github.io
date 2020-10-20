@@ -1,11 +1,12 @@
 ---
-permalink: /
+permalink: /publications
 title: "Publications"
 excerpt: "Publications"
 author_profile: true
 redirect_from: 
   - /publications/
-  - /punblications.html
+  - /publications.html
+
 ---
 
 On this page you can find a selection of my publications, talks and public outreach, and science-related baking.
