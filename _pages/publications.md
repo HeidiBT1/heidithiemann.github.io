@@ -13,9 +13,9 @@ On this page you can find a selection of my publications, talks and public outre
 Journal publications
 ======
 
-**Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster, SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science, 2021, (in prep)
+**Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster (2021), SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science, (in prep)
 
-**Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, [The stellar rotation–activity relation for a sample of SuperWASP and ASAS-SN field stars](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/stellar-rotationactivity-relation-for-a-sample-of-superwasp-and-asassn-field-stars/0B2772DE14A99FC44E73F32704D3FA8B), 2020, PASA
+**Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb (2020), [The stellar rotation–activity relation for a sample of SuperWASP and ASAS-SN field stars](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/stellar-rotationactivity-relation-for-a-sample-of-superwasp-and-asassn-field-stars/0B2772DE14A99FC44E73F32704D3FA8B), PASA
 
 Other publications (non-refereed)
 ======
