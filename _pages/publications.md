@@ -22,9 +22,9 @@ Other publications (non-refereed)
 
 Joseph Dudley, **Heidi B. Thiemann** (2020), [Assessing the quality of space job adverts](https://spaceskills.org/job-advert-quality), Space Skills Alliance
 
-**Heidi B. Thiemann**, Joseph Dudley (2020),[Skills demand for early career space jobs](https://spaceskills.org/skills-demand-for-early-career-space-jobs), Space Skills Alliance
+**Heidi B. Thiemann**, Joseph Dudley (2020), [Skills demand for early career space jobs](https://spaceskills.org/skills-demand-for-early-career-space-jobs), Space Skills Alliance
 
-Joseph Dudley, **Heidi B. Thiemann** (2020),[Towards a space competencies taxonomy](https://spaceskills.org/towards-a-space-competencies-taxonomy), Space Skills Alliance
+Joseph Dudley, **Heidi B. Thiemann** (2020), [Towards a space competencies taxonomy](https://spaceskills.org/towards-a-space-competencies-taxonomy), Space Skills Alliance
 
 Daniel Robson, Henry Lau, Áine O'Brien, Lucy Williams, Ben Sutlieff, **Heidi B. Thiemann**, Louise McCaul, George Weaver, Tracey Dickens (2019), [Assessing the Impact of Space School UK](https://arxiv.org/abs/2006.06680), Proceedings of the 3rd Symposium on Space Educational Activities, pp. 138-144
 
