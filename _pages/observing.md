@@ -30,5 +30,7 @@ Spectroscopy
   * FRODOSpec, PI, 6.1 hours (2020)
   * FRODOSpec, PI, 6.6 hours (2020)
   * FRODOSpec, PI, 21.2 hours (2019)
+* [William Herschel Telescope](http://www.ing.iac.es/astronomy/telescopes/wht/)
+  * LIRIS, 8 hours (2018)
   
   ![Me observing with the 74" in South Africa](/images/telescope_74.jpg)
