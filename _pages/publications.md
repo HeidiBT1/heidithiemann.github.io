@@ -13,12 +13,17 @@ On this page you can find a selection of my publications, talks and public outre
 Journal publications
 ======
 
-**Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster (2021), _SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science_, (in prep)
+**Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster, (2021), _SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science_, (in prep)
+
+Rawls, M. L., **Heidi B. Thiemann**, Walkowicz, L. M., Peel, M. W., Grange, Y. G., (2020) _Satellite Constellation Internet Affordability and Need_, RNAAS
+
 
 **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb (2020), _[The stellar rotation–activity relation for a sample of SuperWASP and ASAS-SN field stars](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/stellar-rotationactivity-relation-for-a-sample-of-superwasp-and-asassn-field-stars/0B2772DE14A99FC44E73F32704D3FA8B)_, PASA
 
 Other publications (non-refereed)
 ======
+
+**Heidi B. Thiemann**, Norton, A.J., Kolb, U.C., Dickinson, H.J., McMaster, A., (2020), _SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science_, to appear in: Proceedings of ADASS (ASP)
 
 Joseph Dudley, **Heidi B. Thiemann** (2020), _[Assessing the quality of space job adverts](https://spaceskills.org/job-advert-quality)_, Space Skills Alliance
 
