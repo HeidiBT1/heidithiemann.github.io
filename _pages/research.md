@@ -49,4 +49,4 @@ Megaconstellations
 
 Megaconstellations are a big threat to ground-based astronomy. I'm currently collaborating with an international team of astronomers to tackle the issue from an optical-astronomy point of view.
 
-Watch this space for our upcoming research notes on the affordability of megaconstellation internet access.
+You can check out our paper on satellite internet affordability and need [here](https://iopscience.iop.org/article/10.3847/2515-5172/abc48e).
