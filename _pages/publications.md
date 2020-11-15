@@ -63,4 +63,4 @@ July 2019 - ["Red Giant Binary Stars"](https://www.youtube.com/watch?v=DbuOpXI20
 Science-related baking
 ======
 
-I love baking, and at The Open University I've taken part in every "Bake Your Research" competition. Check out my [eclipsing contact binary star cakes](https://twitter.com/heidi_teaman/status/1050045772371283979/photo/3), and my attempt at baking the [PIRATE telescope](https://twitter.com/heidi_teaman/status/1194254321266896896).
+I love baking, and at The Open University I've taken part in every "Bake Your Research" competition. Check out my [eclipsing contact binary star cakes](https://twitter.com/heidi_teaman/status/1050045772371283979/photo/3), my attempt at baking the [PIRATE telescope](https://twitter.com/heidi_teaman/status/1194254321266896896), and my ["working from home" astronomy cake](https://twitter.com/heidi_teaman/status/1327645256607821830?s=20).
