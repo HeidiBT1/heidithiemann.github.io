@@ -36,7 +36,7 @@ Daniel Robson, Henry Lau, Áine O'Brien, Lucy Williams, Ben Sutlieff, **Heidi B.
 
 Posters
 ======
-_SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science_, 2020, ADASS XXX
+_[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science](https://adass2020.es/static/ftp/P7-166/P7-166.pdf)_, 2020, ADASS XXX
 
 _[Red novae candidates: An investigation of long-period near-contact giant binaries](https://ras.ac.uk/poster-contest/heidi-thiemann)_, 2020, RAS Early Career Online Poster Exhibition
 
