@@ -13,7 +13,7 @@ On this page you can find a selection of my publications, talks and public outre
 Journal publications
 ======
 
-**Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster, (2021), _SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science_, (in prep)
+**Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster, (2021), _SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science_, (submitted)
 
 Rawls, M. L., **Heidi B. Thiemann**, Walkowicz, L. M., Peel, M. W., Grange, Y. G., (2020) _[Satellite Constellation Internet Affordability and Need](https://iopscience.iop.org/article/10.3847/2515-5172/abc48e)_, RNAAS
 
