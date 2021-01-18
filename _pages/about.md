@@ -14,9 +14,9 @@ Hello! I'm Heidi Thiemann (pronounced Tee-man), a fourth year PhD student in the
 Astronomy
 ======
 
-My research focuses on different aspects of stellar variability in the SuperWASP all-sky survey with [Prof. Andrew Norton](http://www.open.ac.uk/people/ajn3) and [Dr Ulrich Kolb](http://www.open.ac.uk/people/uck2). I'm currently working on near-contact binary stars which may one day merge and form red novae. Previously I've worked on the rotation-activity relation. 
+My research focuses on a range of aspects of stellar variability in the SuperWASP all-sky survey with [Prof. Andrew Norton](http://www.open.ac.uk/people/ajn3) and [Dr Ulrich Kolb](http://www.open.ac.uk/people/uck2). I'm currently working on observing and modelling near-contact red giant binary stars which may one day merge and form red novae, and I'm one of the leads on the _SuperWASP Variable Stars_ citizen science project. Previously I've worked on the rotation-activity relation using SuperWASP and ASAS-SN observations. 
 
-I'm also active in citizen science and the threat megaconstellations pose to ground-based astronomy. You can find out more by clicking on [Research](https://heidithiemann.github.io/research/). 
+I'm also active in the field of the threat megaconstellations pose to ground-based astronomy. You can find out more by clicking on [Research](https://heidithiemann.github.io/research/). 
 
 
 Space Skills
