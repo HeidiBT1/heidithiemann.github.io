@@ -15,7 +15,7 @@ Journal publications
 
 **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, (2021), _Discovery of Near Contact Red Giant Eclipsing Binary Stars_, (in prep)
 
-**Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster, (2021), _SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science_, (accepted to MNRAS)
+**Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster, (2021), _[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science](https://arxiv.org/abs/2101.06216)_, (accepted to MNRAS)
 
 Rawls, M. L., **Heidi B. Thiemann**, Walkowicz, L. M., Peel, M. W., Grange, Y. G., (2020) _[Satellite Constellation Internet Affordability and Need](https://iopscience.iop.org/article/10.3847/2515-5172/abc48e)_, RNAAS
 
