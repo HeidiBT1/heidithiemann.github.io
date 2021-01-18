@@ -22,7 +22,7 @@ I'm also active in citizen science and the threat megaconstellations pose to gro
 Space Skills
 ======
 
-Alongside my research, I co-direct the [Space Skills Alliance](https://spaceskills.org/). We are the think-tank and backbone organisation addressing the UK's space skills shortage, currently carrying out the 2020 Space Census, the first demographic survey of the UK's space sector.
+Alongside my research, I co-direct the [Space Skills Alliance](https://spaceskills.org/). We are the think-tank and backbone organisation addressing the UK's space skills shortage, currently analysing the results our 2020 Space Census, the first demographic survey of the UK's space sector.
 
 Previously, I've led [SpaceCareers.uk](https://spacecareers.uk/), the go-to careers resource for the space sector. Our work has been recognised by awards from the Prime Minister and BEIS. I'm also a Senior Mentor at [Space School UK](http://spaceschool.co.uk/), and involved in many other STEM outreach, engagement, and careers programmes.
 
