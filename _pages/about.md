@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Heidi Thiemann (pronounced Tee-man), a fourth year PhD student in the School of Physical Sciences at The Open University in the UK. I expect to finish my PhD in June 2021, and I'm currently looking for a postdoctoral position.
+Hello! I'm Heidi Thiemann (pronounced Tee-man), a fourth year PhD student in the School of Physical Sciences at The Open University in the UK.
 
 
 Astronomy
@@ -27,4 +27,4 @@ Alongside my research, I co-direct the [Space Skills Alliance](https://spaceskil
 Previously, I've led [SpaceCareers.uk](https://spacecareers.uk/), the go-to careers resource for the space sector. Our work has been recognised by awards from the Prime Minister and BEIS. I'm also a Senior Mentor at [Space School UK](http://spaceschool.co.uk/), and involved in many other STEM outreach, engagement, and careers programmes.
 
 
-###### _Last updated: 18th January 2021_ 
+###### _Last updated: 9th March 2021_ 
