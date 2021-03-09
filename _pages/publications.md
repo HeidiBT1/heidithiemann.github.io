@@ -23,6 +23,7 @@ Rawls, M. L., **Heidi B. Thiemann**, Chemin, V., Walkowicz, L. M., Peel, M. W., 
 
 Other publications (non-refereed)
 ======
+Joseph Dudley, **Heidi B. Thiemann** (2021), _[Demographics of the UK space sector](https://spaceskills.org/census)_, Space Skills Alliance
 
 **Heidi B. Thiemann**, Norton, A.J., Kolb, U.C., Dickinson, H.J., McMaster, A., (2020), _SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science_, to appear in: Proceedings of ADASS (ASP)
 
