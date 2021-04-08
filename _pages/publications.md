@@ -24,7 +24,7 @@ Rawls, M. L., **Heidi B. Thiemann**, Chemin, V., Walkowicz, L. M., Peel, M. W., 
 **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb (2020), _[The stellar rotation–activity relation for a sample of SuperWASP and ASAS-SN field stars](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/stellar-rotationactivity-relation-for-a-sample-of-superwasp-and-asassn-field-stars/0B2772DE14A99FC44E73F32704D3FA8B)_, PASA
 
 
-Astronomy pposters
+Astronomy posters
 ======
 _[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science](https://stemforbritain.org.uk/wp-content/uploads/2021/03/HEIDI_THIEMANN_2021_POSTER.pdf)_, 2021, STEM for BRITAIN 2021
 
