@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Observing"
-    url: /observing/    
+ # - title: "Observing"
+ #   url: /observing/    
 
   - title: "Space Skills"
     url: /spaceskills/    
@@ -15,8 +15,8 @@ main:
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+ #   url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
