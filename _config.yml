@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Heidi Thiemann"
+title                    : "Dr. Heidi Thiemann"
 title_separator          : "-"
-name                     : &name "Heidi Thiemann"
+name                     : &name "Dr. Heidi Thiemann"
 description              : &description "personal description"
 url                      : https://heidithiemann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
