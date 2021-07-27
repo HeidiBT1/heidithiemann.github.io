@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Heidi Thiemann (pronounced Tee-man), Space Technology Training Project Manager at Truro & Penwith College and Director of the Space Skills Alliance. I recently finished a PhD in astrophysics in the School of Physical Sciences at The Open University, UK.
+Hello! I'm Dr. Heidi Thiemann (pronounced Tee-man), Space Technology Training Project Manager at Truro & Penwith College and Director of the Space Skills Alliance. I recently finished a PhD in astrophysics in the School of Physical Sciences at The Open University, UK.
 
 Space Technology Training
 ======
@@ -27,4 +27,4 @@ Astronomy
 My research focused on a range of aspects of stellar variability in the SuperWASP all-sky survey with [Prof. Andrew Norton](http://www.open.ac.uk/people/ajn3) and [Dr Ulrich Kolb](http://www.open.ac.uk/people/uck2). Over the past 4 years I've worked on observing and modelling near-contact red giant binary stars, the _SuperWASP Variable Stars_ citizen science project, the rotation-activity relation, and the threat megaconstellations pose to ground-based astronomy. You can find out more by clicking on [Research](https://heidithiemann.github.io/research/). 
 
 
-###### _Last updated: 20th July 2021_ 
+###### _Last updated: 27th July 2021_ 
