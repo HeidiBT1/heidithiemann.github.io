@@ -10,11 +10,11 @@ Here's a short summary of what I've been working on during my PhD. Please get in
 Binary stars
 ======
 
-My current research focuses on extreme binary stars in the SuperWASP all sky survey. 
+My PhD research focused on extreme binary stars in the SuperWASP all sky survey. 
 
 From searches of the SuperWASP and ASAS-SN catalogues, I identified a set of candidate stars that appear to be long-period examples of near-contact eclipsing binaries, with orbital periods of up to a month or more. To be in contact, or near contact, at such long periods requires the stellar components to be giants. Such objects have been proposed as the progenitors of red novae, but none have been conclusively identified pre-nova. This is a newly recognised, unusual configuration of binary stars. 
 
-I've now completed 2 year long programme of multi-colour photometry of these targets using the LCO robotic telescopes and The Open University's own PIRATE observatory. I've taken spectroscopy of northern candidates with the Liverpool Telescope, and southern candidates using the SAAO 74-inch telescope and SALT. By combining the multi-colour photometry with radial velocity spectroscopy, I've been able to model the parameters (masses, radii, temperatures, etc.) of the stellar components using the Wilson-Devinney code, implemented in the PHOEBE modelling package. I'm currently working on modelling the evolution of the binaries using MESA and binary_c. 
+I completed 2 year long programme of multi-colour photometry of these targets using the LCO robotic telescopes and The Open University's own PIRATE observatory and taken spectroscopy of northern candidates with the Liverpool Telescope, and southern candidates using the SAAO 74-inch telescope and SALT. By combining the multi-colour photometry with radial velocity spectroscopy, I've been able to model the parameters (masses, radii, temperatures, etc.) of the stellar components using the Wilson-Devinney code, implemented in the PHOEBE modelling package. I've also modelled the evolution of the binaries using MESA and binary_c. 
 
 Watch this space for our upcoming paper on near contact red giant eclipsing binaries.
 
@@ -28,6 +28,8 @@ Citizen scientists are asked to classify light curves as simplified variable sta
 I recently completed the analysis of the first ~1 million classifications from citizen scientist volunteers, finding 301 brand new variable stars, eclipsing contact binaries near the short-period cutoff, and new configurations of long period binary stars. I also characterised the accuracy of volunteer classifications, and detailed the future of the project, including the use of Convolutional Neural Networks and the creation of a new user interface to allow anyone to access the data and results.
 
 You can try your hand at classifying variable stars [here](https://www.zooniverse.org/projects/ajnorton/superwasp-variable-stars) and find my paper on the project [here](https://arxiv.org/abs/2101.06216).
+
+I'm also involved in a brand-new Zooniverse project, SuperWASP: Black Hole Hunters. It's currently going through beta testing but you'll be able to find your own black holes soon.
 
 
 The rotation-activity relation
