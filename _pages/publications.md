@@ -15,7 +15,7 @@ First author astronomy publications
 
 **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, (2021), _Discovery of Near Contact Red Giant Eclipsing Binary Stars_, (in prep)
 
-**Heidi B. Thiemann**, (2021), _{Variable Stars in the SuperWASP All-Sky Survey](http://oro.open.ac.uk/78919/)_, (PhD thesis)
+**Heidi B. Thiemann**, (2021), _[Variable Stars in the SuperWASP All-Sky Survey](http://oro.open.ac.uk/78919/)_, (PhD thesis)
 
 **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster, (2021), _[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science](https://academic.oup.com/mnras/article/502/1/1299/6105327)_, (MNRAS)
 
