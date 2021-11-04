@@ -39,6 +39,10 @@ _[Initial results of the rotation-activity relation](https://www.cosmos.esa.int/
 
 Space skills publications
 ======
+**Heidi B. Thiemann**, Joseph Dudley (2021), _[Women in the UK space sector](https://spaceskills.org/women-report)_, Space Skills Alliance
+
+Joseph Dudley, **Heidi B. Thiemann** (2021), _[Pay in the UK space sector](https://spaceskills.org/census-pay)_, Space Skills Alliance
+
 Joseph Dudley, **Heidi B. Thiemann** (2021), _[Demographics of the UK space sector](https://spaceskills.org/census)_, Space Skills Alliance
 
 Joseph Dudley, **Heidi B. Thiemann** (2020), _[Assessing the quality of space job adverts](https://spaceskills.org/job-advert-quality)_, Space Skills Alliance
@@ -59,6 +63,10 @@ _[Diversity in student space activities in the UK](https://www.hou.usra.edu/meet
 
 Examples of recorded talks and public engagement
 ======
+November 2021 - ["Thinking Women"](https://www.youtube.com/watch?v=rirh_ZpfEn0)
+
+October 2021 - ["Women in Space: Ada Lovelace Day"](https://www.youtube.com/watch?v=kydB42Cy2Kw)
+
 October 2020 - ["An expert discussion about Venus"](https://www.youtube.com/watch?v=dhhvbOaayhY)
 
 October 2020 - ["Society for Popular Astronomy: diversity in astronomy special"](https://www.facebook.com/watch/live/?v=615513355794974&ref=watch_permalink)
