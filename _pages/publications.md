@@ -10,6 +10,29 @@ redirect_from:
 
 On this page you can find a selection of my publications, talks and public outreach, and science-related baking.
 
+Space skills publications
+======
+**Heidi B. Thiemann**, Joseph Dudley (2021), _[Women in the UK space sector](https://spaceskills.org/women-report)_, Space Skills Alliance
+
+Joseph Dudley, **Heidi B. Thiemann** (2021), _[Pay in the UK space sector](https://spaceskills.org/census-pay)_, Space Skills Alliance
+
+Joseph Dudley, **Heidi B. Thiemann** (2021), _[Demographics of the UK space sector](https://spaceskills.org/census)_, Space Skills Alliance
+
+Joseph Dudley, **Heidi B. Thiemann** (2020), _[Assessing the quality of space job adverts](https://spaceskills.org/job-advert-quality)_, Space Skills Alliance
+
+**Heidi B. Thiemann**, Joseph Dudley (2020), _[Skills demand for early career space jobs](https://spaceskills.org/skills-demand-for-early-career-space-jobs)_, Space Skills Alliance
+
+Joseph Dudley, **Heidi B. Thiemann** (2020), _[Towards a space competencies taxonomy](https://spaceskills.org/towards-a-space-competencies-taxonomy)_, Space Skills Alliance
+
+Daniel Robson, Henry Lau, Áine O'Brien, Lucy Williams, Ben Sutlieff, **Heidi B. Thiemann**, Louise McCaul, George Weaver, Tracey Dickens (2019), _[Assessing the Impact of Space School UK](https://arxiv.org/abs/2006.06680)_, Proceedings of the 3rd Symposium on Space Educational Activities, pp. 138-144
+
+
+Space skills posters
+======
+
+_[Diversity in student space activities in the UK](https://www.hou.usra.edu/meetings/lpsc2019/eposter/2380.pdf)_, 2019, 50th Lunar and Planetary Science Conference
+
+
 First author astronomy publications
 ======
 
@@ -44,29 +67,6 @@ _[The rotation-activity relation](https://nam2019.org/posters/details/32/160)_, 
 _[Initial results of the rotation-activity relation](https://www.cosmos.esa.int/documents/332006/1602912/AbstractBook.pdf)_, 2018, Time-Domain Astronomy: A High Energy View
 
 
-Space skills publications
-======
-**Heidi B. Thiemann**, Joseph Dudley (2021), _[Women in the UK space sector](https://spaceskills.org/women-report)_, Space Skills Alliance
-
-Joseph Dudley, **Heidi B. Thiemann** (2021), _[Pay in the UK space sector](https://spaceskills.org/census-pay)_, Space Skills Alliance
-
-Joseph Dudley, **Heidi B. Thiemann** (2021), _[Demographics of the UK space sector](https://spaceskills.org/census)_, Space Skills Alliance
-
-Joseph Dudley, **Heidi B. Thiemann** (2020), _[Assessing the quality of space job adverts](https://spaceskills.org/job-advert-quality)_, Space Skills Alliance
-
-**Heidi B. Thiemann**, Joseph Dudley (2020), _[Skills demand for early career space jobs](https://spaceskills.org/skills-demand-for-early-career-space-jobs)_, Space Skills Alliance
-
-Joseph Dudley, **Heidi B. Thiemann** (2020), _[Towards a space competencies taxonomy](https://spaceskills.org/towards-a-space-competencies-taxonomy)_, Space Skills Alliance
-
-Daniel Robson, Henry Lau, Áine O'Brien, Lucy Williams, Ben Sutlieff, **Heidi B. Thiemann**, Louise McCaul, George Weaver, Tracey Dickens (2019), _[Assessing the Impact of Space School UK](https://arxiv.org/abs/2006.06680)_, Proceedings of the 3rd Symposium on Space Educational Activities, pp. 138-144
-
-
-Space skills posters
-======
-
-_[Diversity in student space activities in the UK](https://www.hou.usra.edu/meetings/lpsc2019/eposter/2380.pdf)_, 2019, 50th Lunar and Planetary Science Conference
-
-
 
 Examples of recorded talks and public engagement
 ======
@@ -75,8 +75,6 @@ November 2021 - ["Thinking Women"](https://www.youtube.com/watch?v=rirh_ZpfEn0)
 October 2021 - ["Women in Space: Ada Lovelace Day"](https://www.youtube.com/watch?v=kydB42Cy2Kw)
 
 October 2020 - ["An expert discussion about Venus"](https://www.youtube.com/watch?v=dhhvbOaayhY)
-
-October 2020 - ["Society for Popular Astronomy: diversity in astronomy special"](https://www.facebook.com/watch/live/?v=615513355794974&ref=watch_permalink)
 
 September 2020 - ["Ask The Expert: Things that go Bump in the Night...Sky"](https://www.youtube.com/watch?v=fX1lfwIrHI4&list=PLar-D-A84stgVg2wxjDQaH1eAUDPdhRc3&index=8)
 
