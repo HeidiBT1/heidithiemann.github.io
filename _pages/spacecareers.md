@@ -11,6 +11,6 @@ I get a lot of emails asking "how do I get a career in space?", "where can I do 
 
 Unfortunately, I don't have time to answer everyone individually.
 
-Luckily, my friends and I built a website that will answer (nearl) all your questions... _[SpaceCareers.uk](www.SpaceCareers.uk)_ 
+Luckily, my friends and I built a website that will answer (nearly) all your questions... _[SpaceCareers.uk](www.SpaceCareers.uk)_ 
 
 If you've read everything on SpaceCareers.uk and still can't find the answer, feel free to drop me an email.
