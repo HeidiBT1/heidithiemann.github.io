@@ -26,7 +26,7 @@ Previously, I led [SpaceCareers.uk](https://spacecareers.uk/), the go-to careers
 Astronomy
 ======
 
-I handed in my PhD in May 2021. My research focused on a range of aspects of stellar variability in the SuperWASP all-sky survey with [Prof. Andrew Norton](http://www.open.ac.uk/people/ajn3) and [Dr Ulrich Kolb](http://www.open.ac.uk/people/uck2). Over the past 4 years I worked on observing and modelling near-contact red giant binary stars, the _SuperWASP Variable Stars_ citizen science project, the rotation-activity relation, and the threat megaconstellations pose to ground-based astronomy. You can find out more by clicking on [Research](https://heidithiemann.github.io/research/). 
+I handed in my PhD in May 2021. My research focused on a range of aspects of stellar variability in the SuperWASP all-sky survey with [Prof. Andrew Norton](http://www.open.ac.uk/people/ajn3) and [Dr Ulrich Kolb](http://www.open.ac.uk/people/uck2). From 2017-2021 I worked on observing and modelling near-contact red giant binary stars, the _SuperWASP Variable Stars_ citizen science project, the rotation-activity relation, and the threat megaconstellations pose to ground-based astronomy. You can find out more by clicking on [Research](https://heidithiemann.github.io/research/). 
 
 I've only come to your website to find out about a career in space
 ======
