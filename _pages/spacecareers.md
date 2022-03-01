@@ -24,6 +24,10 @@ What space companies are even in Cornwall?
 ===
 Aerospace Cornwall has made a lovely [map](https://aerospacecornwall.co.uk/cornwall-space/space-cluster-map) to provide just the answer.
 
+Can I study on a space course?
+===
+Yes! My team's developed the Level 4 Space Engineering Technician Apprenticeship, Space Technology HNC, and Space Technology HND. You can find more details [here](https://ols.mis.truro-penwith.ac.uk/WCFWebSite/Admissions/courseDetails.aspx?from=tpc&id=201000688286115). We expect that companies will start recruiting for the apprenticeship in March/April 2022. To apply, you'll need A-Levels or Level 3 equivalent in a STEM subject. More details about the HNC/HND to come.
+
 Where can I do space work experience or an internship in Cornwall?
 ======
 * [Goonhilly Earth Station](https://www.goonhilly.org/careers) sometimes offers work experience and internships
