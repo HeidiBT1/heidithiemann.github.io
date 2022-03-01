@@ -42,4 +42,4 @@ What other things can I do?
 * Visit the space exhibition at [Truro Museum](https://spaceportcornwall.com/events/from-steam-to-satellites/)
 * Visit the [Cornwall Aviation Heritage Centre](https://cornwallaviationhc.co.uk/) to learn more about aviation and aerospace
 * Get involved with tech events run by [Software Cornwall](https://softwarecornwall.org/events/)
-* Get invovled in coding events run by [TECgirls](https://www.tecgirls.co.uk/services-4)
+* Get involved in coding events run by [TECgirls](https://www.tecgirls.co.uk/services-4)
