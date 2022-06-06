@@ -32,7 +32,6 @@ Yes! My team's developed the Level 4 Space Engineering Technician Apprenticeship
 **Where can I do space work experience or an internship in Cornwall?**
 
 * [Goonhilly Earth Station](https://www.goonhilly.org/careers) sometimes offers work experience and internships
-* [Spaceport Cornwall](https://www.speakersforschools.org/youth_opportunities/become-a-young-space-entrepreneur-3-day-vwex-with-spaceport-cornwall/) are currently offering a virtual work experience programme
 * [SPIN](https://sa.catapult.org.uk/work-with-us/space-placements-industry-spin/) or Space Placements in INdustry (for university and college students) sometimes has opportunities in Cornwall
 * [Virtual work experience at Airbus](https://www.springpod.com/virtual-work-experience/aerospace-work-experience) is a great option if you can't find an in-person opportunity
 
