@@ -25,9 +25,9 @@ This is a bit more niche so I'm collating my own set of Cornwall-specific space 
 
 The Cornwall Space Cluster has made a lovely [map](https://www.cornwallspacecluster.co.uk/wp-content/uploads/2022/03/CSC-map-0322.pdf) to provide just the answer.
 
-**Can I study on a space course?**
+**Where can I find out find myself a space job in Cornwall?**
 
-Yes! My team's developed the Level 4 Space Engineering Technician Apprenticeship, Space Technology HNC, and Space Technology HND. You can find more details [here](https://ols.mis.truro-penwith.ac.uk/WCFWebSite/Admissions/courseDetails.aspx?from=tpc&id=201000688286115). We expect that companies will start recruiting for the apprenticeship in March/April 2022. To apply, you'll need A-Levels or Level 3 equivalent in a STEM subject. More details about the HNC/HND to come.
+I'd recommend checking out the Cornwall Space Cluster's [careers website](https://www.cornwallspacecluster.co.uk/careers/). If you're looking at software-related space jobs, there's often some on the Software Cornwall [jobs board](https://softwarecornwall.org/jobs-board/).
 
 **Where can I do space work experience or an internship in Cornwall?**
 
@@ -35,7 +35,13 @@ Yes! My team's developed the Level 4 Space Engineering Technician Apprenticeship
 * [SPIN](https://sa.catapult.org.uk/work-with-us/space-placements-industry-spin/) or Space Placements in INdustry (for university and college students) sometimes has opportunities in Cornwall
 * [Virtual work experience at Airbus](https://www.springpod.com/virtual-work-experience/aerospace-work-experience) is a great option if you can't find an in-person opportunity
 
+**Can I study on a space course?**
+
+Yes! My team's developed the Level 4 Space Engineering Technician Apprenticeship, Space Technology HNC, and Space Technology HND. You can find more details [here](https://ols.mis.truro-penwith.ac.uk/WCFWebSite/Admissions/courseDetails.aspx?from=tpc&id=201000688286115) or apply on UCAS in August 2022 [here](https://www.ucas.com/explore/related/cfe1b520-9486-7aaf-3c1b-a4a87f073021).
+
 **What other things can I do?**
+
+Cornwall has some fantastic - but hidden - space sites and activities. Here's a few I'd recommend:
 
 * Read up on the amazing [Cornwall Space Cluster](https://www.cornwallspacecluster.co.uk/)
 * Attend the [Goonhilly Earth Station summer school](https://www.goonhilly.org/summer-school)
@@ -43,7 +49,10 @@ Yes! My team's developed the Level 4 Space Engineering Technician Apprenticeship
 * Attend [Space Camp Cornwall](https://www.eventbrite.co.uk/e/space-camp-cornwall-tickets-247254905077)
 * Attend the [JET to Space summer school](https://www.joneggingtrust.org.uk/jettospace)
 * Visit the space exhibition at [Truro Museum](https://spaceportcornwall.com/events/from-steam-to-satellites/)
-* Visit the [Cornwall Aviation Heritage Centre](https://cornwallaviationhc.co.uk/) to learn more about aviation and aerospace
+* Visit the [Cornwall Aviation Heritage Centre](https://cornwallaviationhc.co.uk/)
+* Visit the GCHQ exhibit at the [Museum of Global Communication](https://pkporthcurno.com/)
 * Get involved with tech events run by [Software Cornwall](https://softwarecornwall.org/events/)
 * Get involved in coding events run by [TECgirls](https://www.tecgirls.co.uk/)
-* Try out some of the [educational materials](https://spaceportcornwall.com/education/) written by Spaceport Cornwall
+* Try out some of Spaceport Cornwall's [educational materials](https://spaceportcornwall.com/education/)
+* Try some stargazing at one of Cornwall's [dark sky sites](https://www.nationaltrust.org.uk/lists/stargazing-in-the-south-west)
+* Find out about the ancient [astronomical heritage of Cornwall](https://archaeoastronomycornwall.com/)
