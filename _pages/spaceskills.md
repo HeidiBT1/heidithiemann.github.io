@@ -7,13 +7,13 @@ redirect_from:
   - /spaceskills
 ---
 
-Alongside my astronomy research, I'm also active in the realms of space careers and space skills. I'm passionate about improving opportunities for people who want to join the space sector. I started as an undergraduate, putting thousands of hours into leading UKSEDS, the national student space society, and as the head of the SpaceCareers.uk team. 
+I'm passionate about improving opportunities for people who want to join the space sector. I started as an undergraduate, putting thousands of hours into leading UKSEDS, the national student space society, and as the head of the SpaceCareers.uk team. 
 
 A few years down the line, and I'm still actively in the space skills domain. Here's a few examples of the activities I've been involved in recently.
 
 Space Skills Alliance
 ======
-I co-founded the Space Skills Alliance with Joseph Dudley, which exists to tackle the space skills shortage, by collecting and publishing data and analysis, promoting and advising on best practice, and bringing key stakeholders together to collaborate and learn from each other.
+I co-founded the Space Skills Alliance with my good friend Joseph Dudley, which exists to tackle the space skills shortage, by collecting and publishing data and analysis, promoting and advising on best practice, and bringing key stakeholders together to collaborate and learn from each other.
 
 We've been active since September 2019, and since then we've published analysis on skills demands for early career space jobs, the quality of space jobs, a space competencies taxonomy, and more.
 
@@ -28,7 +28,8 @@ In 2017, I took over as the head of SpaceCareers.uk after over a year of volunte
 Panels and collaborations
 ======
 I'm currently involved in a number of space sector panels and organisations:
-* Member of Space Skills Advisory Panel (SSAP), advising the UK Space Agency on skills provision
+* Member of Space Skills Advisory Panel (SSAP), advising the UK Space Agency and BEIS on skills provision
+* Member of the Cornwall Space Cluster Steering Group
 * Member of the Space Universities Network (SUN)
 * Social Media Manager for Women In Aerospace-Europe (WIA-E)
 * Advisor to SpaceCareers.uk
@@ -45,9 +46,10 @@ Public engagement
 Over the years, I've been involved in many space and STEM public engagement and outreach activities. These include:
 * Space Speaker in your Classroom
 * I'm a Scientist
-* PubhD-OU (founder)
+* PubhD
 * Space Camp UK
 * Soapbox Science
+* VWEX
 
-During my time as a volunteer then member of the Executive Committee for UKSEDS, I've also led the development and organisation of national competitions, events, and conferences for thousands of young people interested in the space industry and space careers.
+During my time as a volunteer then member of the Executive Committee for UKSEDS, I also led the development and organisation of national competitions, events, and conferences for thousands of young people interested in the space industry and space careers.
 
