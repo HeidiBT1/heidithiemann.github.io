@@ -31,13 +31,14 @@ I'd recommend checking out the Cornwall Space Cluster's [careers website](https:
 
 **Where can I do space work experience or an internship in Cornwall?**
 
-* [Goonhilly Earth Station](https://www.goonhilly.org/careers) sometimes offers work experience and internships
-* [SPIN](https://sa.catapult.org.uk/work-with-us/space-placements-industry-spin/) or Space Placements in INdustry (for university and college students) sometimes has opportunities in Cornwall
-* [Virtual work experience at Airbus](https://www.springpod.com/virtual-work-experience/aerospace-work-experience) is a great option if you can't find an in-person opportunity
+* [Goonhilly Earth Station](https://www.goonhilly.org/careers) sometimes offers work experience and internships.
+* [SPIN](https://sa.catapult.org.uk/work-with-us/space-placements-industry-spin/) or Space Placements in INdustry (for university and college students) sometimes has opportunities in Cornwall.
+* [Virtual work experience at Airbus](https://www.springpod.com/virtual-work-experience/aerospace-work-experience) is a great option if you can't find an in-person opportunity. Often offered by Spaceport Cornwall too.
+* [Mission to Mars at Software Cornwall](https://softwarecornwall.org/mission-to-mars/) for those interested in software and robotics.
 
 **Can I study on a space course?**
 
-Yes! My team's developed the Level 4 Space Engineering Technician Apprenticeship, Space Technology HNC, and Space Technology HND. You can find more details [here](https://ols.mis.truro-penwith.ac.uk/WCFWebSite/Admissions/courseDetails.aspx?from=tpc&id=201000688286115) or apply on UCAS in August 2022 [here](https://www.ucas.com/explore/related/cfe1b520-9486-7aaf-3c1b-a4a87f073021).
+Yes! My team's developed the Level 4 Space Engineering Technician Apprenticeship, Space Technology HNC, and Space Technology HND. You can find more details [here](https://ols.mis.truro-penwith.ac.uk/WCFWebSite/Admissions/courseDetails.aspx?from=tpc&id=201000688286115).
 
 **What other things can I do?**
 
