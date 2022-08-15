@@ -53,6 +53,7 @@ Examples of recorded talks and public engagement
 * November 2021 - ["BIG GUEST"](https://www.bbc.co.uk/programmes/p0b756h1)
 * November 2021 - ["Thinking Women"](https://www.youtube.com/watch?v=rirh_ZpfEn0)
 * October 2021 - ["Women in Space: Ada Lovelace Day"](https://www.youtube.com/watch?v=kydB42Cy2Kw)
+* October 2021 - ["Women who are out of this world: Heidi Thiemann"](https://www.youtube.com/watch?v=_60-Fv0n-pQ)
 * January 2021 - ["Space Talk:Searching for Strange Stars!"](https://www.youtube.com/watch?v=PDyFZjfqXgk)
 * October 2020 - ["An expert discussion about Venus"](https://www.youtube.com/watch?v=dhhvbOaayhY)
 * September 2020 - ["Ask The Expert: Things that go Bump in the Night...Sky"](https://www.youtube.com/watch?v=fX1lfwIrHI4&list=PLar-D-A84stgVg2wxjDQaH1eAUDPdhRc3&index=8)
