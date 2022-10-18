@@ -25,19 +25,15 @@ Space skills posters
 * _[Diversity in student space activities in the UK](https://www.hou.usra.edu/meetings/lpsc2019/eposter/2380.pdf)_, 2019, 50th Lunar and Planetary Science Conference
 
 
-First author astronomy publications
+Astronomy publications
 ======
 * **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, (2022), _Discovery of Near Contact Red Giant Eclipsing Binary Stars_, (in prep)
 * **Heidi B. Thiemann**, (2021), _[Variable Stars in the SuperWASP All-Sky Survey](http://oro.open.ac.uk/78919/)_, (PhD thesis)
+* Adam McMaster, Andrew J. Norton, Hugh J. Dickinson, Heidi B. Thiemann, Ulrich C. Kolb, (2021), _[VeSPA: The SuperWASP Variable Star Photometry Archive](https://iopscience.iop.org/article/10.3847/2515-5172/ac2de8/meta)_, (Res. Notes AAS)
 * **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster, (2021), _[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science](https://academic.oup.com/mnras/article/502/1/1299/6105327)_, (MNRAS)
 * **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster, (2020), _SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science_, to appear in: Proceedings of ADASS (ASP)
-* **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb (2020), _[The stellar rotation–activity relation for a sample of SuperWASP and ASAS-SN field stars](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/stellar-rotationactivity-relation-for-a-sample-of-superwasp-and-asassn-field-stars/0B2772DE14A99FC44E73F32704D3FA8B)_, PASA
-
-Other astronomy publications
-======
-* Adam McMaster, Andrew J. Norton, Hugh J. Dickinson, Heidi B. Thiemann, Ulrich C. Kolb, (2021), _[VeSPA: The SuperWASP Variable Star Photometry Archive](https://iopscience.iop.org/article/10.3847/2515-5172/ac2de8/meta)_, (Res. Notes AAS)
 * Rawls, M. L., **Heidi B. Thiemann**, Chemin, V., Walkowicz, L. M., Peel, M. W., Grange, Y. G., (2020) _[Satellite Constellation Internet Affordability and Need](https://iopscience.iop.org/article/10.3847/2515-5172/abc48e)_, RNAAS
-
+* **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb (2020), _[The stellar rotation–activity relation for a sample of SuperWASP and ASAS-SN field stars](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/stellar-rotationactivity-relation-for-a-sample-of-superwasp-and-asassn-field-stars/0B2772DE14A99FC44E73F32704D3FA8B)_, PASA
 
 Astronomy posters
 ======
