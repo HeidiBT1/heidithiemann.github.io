@@ -33,23 +33,22 @@ I'd recommend checking out the Cornwall Space Cluster's [careers website](https:
 
 * [Goonhilly Earth Station](https://www.goonhilly.org/careers) sometimes offers work experience and internships.
 * [SPIN](https://sa.catapult.org.uk/work-with-us/space-placements-industry-spin/) or Space Placements in INdustry (for university and college students) sometimes has opportunities in Cornwall.
-* [Virtual work experience at Airbus](https://www.springpod.com/virtual-work-experience/aerospace-work-experience) is a great option if you can't find an in-person opportunity. Often offered by Spaceport Cornwall too.
+* [Virtual work experience](https://www.springpod.com/virtual-work-experience/aerospace-work-experience) is a great option if you can't find an in-person opportunity. It's often offered by Spaceport Cornwall and other great space and aerospace companies too.
 * [Mission to Mars at Software Cornwall](https://softwarecornwall.org/mission-to-mars/) for those interested in software and robotics.
 
-**Can I study on a space course?**
+**Can I study on a space course in Cornwall?**
 
 Yes! My team's developed the Level 4 Space Engineering Technician Apprenticeship, Space Technology HNC, and Space Technology HND. You can find more details [here](https://ols.mis.truro-penwith.ac.uk/WCFWebSite/Admissions/courseDetails.aspx?from=tpc&id=201000688286115).
+
+Next Steps South West have also produced a map of space-related courses that you can study at college and university level right across the South West. Find it [here](https://nextstepssw.ac.uk/content/uploads/2022/10/NSSW-Space-Ed-Courses-Map.pdf).
 
 **What other things can I do?**
 
 Cornwall has some fantastic - but hidden - space sites and activities. Here's a few I'd recommend:
 
+* Watch [interviews](https://nextstepssw.ac.uk/resources/space-education/?utm_source=Space+Week) with people working in the Cornwall Space Cluster
 * Read up on the amazing [Cornwall Space Cluster](https://www.cornwallspacecluster.co.uk/)
 * Attend the [Goonhilly Earth Station summer school](https://www.goonhilly.org/summer-school)
-* Attend the [Goonhilly 60 music and science festival](https://goonhilly.live/)
-* Attend [Space Camp Cornwall](https://www.eventbrite.co.uk/e/space-camp-cornwall-tickets-247254905077)
-* Attend the [JET to Space summer school](https://www.joneggingtrust.org.uk/jettospace)
-* Visit the space exhibition at [Truro Museum](https://spaceportcornwall.com/events/from-steam-to-satellites/)
 * Visit the [Cornwall Aviation Heritage Centre](https://cornwallaviationhc.co.uk/)
 * Visit the GCHQ exhibit at the [Museum of Global Communication](https://pkporthcurno.com/)
 * Get involved with tech events run by [Software Cornwall](https://softwarecornwall.org/events/)
