@@ -47,10 +47,11 @@ Next Steps South West have also produced a map of space-related courses that you
 Cornwall has some fantastic - but hidden - space sites and activities. Here's a few I'd recommend:
 
 * Watch [interviews](https://nextstepssw.ac.uk/resources/space-education/?utm_source=Space+Week) with people working in the Cornwall Space Cluster
-* Read up on the amazing [Cornwall Space Cluster](https://www.cornwallspacecluster.co.uk/)
+* Keep an eye on [Spaceport Cornwall's website](https://spaceportcornwall.com/whats-on/) for upcoming launch activites
+* Read up on the activities [Cornwall Space Cluster](https://www.cornwallspacecluster.co.uk/)
 * Attend the [Goonhilly Earth Station summer school](https://www.goonhilly.org/summer-school)
 * Visit the [Cornwall Aviation Heritage Centre](https://cornwallaviationhc.co.uk/)
-* Visit the GCHQ exhibit at the [Museum of Global Communication](https://pkporthcurno.com/)
+* Visit the GCHQ telecommunications exhibit at the [Museum of Global Communication](https://pkporthcurno.com/)
 * Get involved with tech events run by [Software Cornwall](https://softwarecornwall.org/events/)
 * Get involved in coding events run by [TECgirls](https://www.tecgirls.co.uk/)
 * Try out some of Spaceport Cornwall's [educational materials](https://spaceportcornwall.com/education/)
