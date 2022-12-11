@@ -11,12 +11,13 @@ main:
     
   - title: "Publications"
     url: /publications/
-        
-  - title: "So you want a career in space?"
-    url: /spacecareers/
     
   - title: "Public Engagement"
     url: /public-engagement/
-    
+
+  - title: "So you want a career in space?"
+    url: /spacecareers/
+
+  
   #- title: "Guide"
   #  url: /markdown/
