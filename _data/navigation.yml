@@ -15,8 +15,8 @@ main:
   - title: "So you want a career in space?"
     url: /spacecareers/
     
- # - title: "CV"
- #   url: /cv/
+  - title: "Public Engagement"
+    url: /public-engagement/
     
   #- title: "Guide"
   #  url: /markdown/
