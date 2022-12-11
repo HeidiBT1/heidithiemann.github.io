@@ -18,7 +18,7 @@ I co-direct the [Space Skills Alliance](https://spaceskills.org/). We're the thi
 
 Space Technology Training
 ======
-Peeviously, I was a project manager at Truro & Penwith College, developing a suite of courses that will provide graduates and non-graduate staff within the Cornish space sector with the education and training needed to support new and existing businesses linked to the space industry. You can find out more [here](https://www.truro-penwith.ac.uk/csatt).
+Previously, I was a project manager at Truro & Penwith College, developing a suite of courses that will provide graduates and non-graduate staff within the Cornish space sector with the education and training needed to support new and existing businesses linked to the space industry. You can find out more [here](https://www.truro-penwith.ac.uk/csatt).
 
 We developed the first Space HNC and HND programme in the world, delivering the first space apprenticeship programme in Cornwall. You can find out more about our vocational qualifications [here](https://ols.mis.truro-penwith.ac.uk/WCFWebSite/Admissions/courseDetails.aspx?from=tpc&id=201000688286115).
 
