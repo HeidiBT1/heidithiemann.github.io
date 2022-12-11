@@ -5,7 +5,7 @@ permalink: /public-engagement/
 author_profile: true
 ---
 
-Here's a short summary of what I've been working on during my PhD. Please get in touch if you'd like to know more.
+Here's a short summary of the outreach and public engagement I've been involved in over the years. Please get in touch if you'd like to know more.
 
 Space School UK
 ======
