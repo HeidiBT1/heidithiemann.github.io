@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Dr. Heidi Thiemann, Director of the Space Skills Alliance. My name defies the _"i before e" rule_. It's German and pronouced _"Tee-man"_.
+Hi, I'm Dr. Heidi Thiemann, Director of the Space Skills Alliance. 
+
+My name defies the _"i before e" rule_. It's German and pronouced _"Tee-man"_.
 
 
 Space Skills
@@ -24,7 +26,7 @@ Previously, I was a project manager at [Truro & Penwith College](https://www.tru
 Astronomy Research
 ======
 
-My [PhD research](https://heidithiemann.github.io/research/). focused on a range of aspects of stellar variability in the SuperWASP all-sky survey. From 2017-2021 I worked on observing and modelling near-contact red giant binary stars, the _SuperWASP Variable Stars_ citizen science project, the rotation-activity relation, and the threat megaconstellations pose to ground-based astronomy.
+My [PhD research](https://heidithiemann.github.io/research/) focused on a range of aspects of stellar variability in the SuperWASP all-sky survey. From 2017-2021 I worked on observing and modelling near-contact red giant binary stars, the _SuperWASP Variable Stars_ citizen science project, the rotation-activity relation, and the threat megaconstellations pose to ground-based astronomy.
 
 I've only come to your website to find out about a career in space
 ======
