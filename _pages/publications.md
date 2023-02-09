@@ -12,7 +12,7 @@ On this page you can find a selection of my publications, talks and public outre
 
 Space skills publications
 ======
-* Joseph Dudley, **Heidi B. Thiemann** (2022), _[5 Solutions to the Space Skills Gap]([https://spaceskills.org/census-pay](https://spaceskills.org/news-post?p=_20220905-5-solutions))_, Space Skills Alliance
+* Joseph Dudley, **Heidi B. Thiemann** (2022), _[5 Solutions to the Space Skills Gap](https://spaceskills.org/news-post?p=_20220905-5-solutions)_, Space Skills Alliance
 * **Heidi B. Thiemann**, Joseph Dudley (2021), _[Women in the UK space sector](https://spaceskills.org/women-report)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2021), _[Pay in the UK space sector](https://spaceskills.org/census-pay)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2021), _[Demographics of the UK space sector](https://spaceskills.org/census)_, Space Skills Alliance
