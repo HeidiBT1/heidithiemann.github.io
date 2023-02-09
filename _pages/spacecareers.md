@@ -14,7 +14,7 @@ Unfortunately, I don't have time to answer everyone individually.
 
 Luckily, my friends and I built and ran a website that will answer (nearly) all your questions... _[SpaceCareers.uk](www.SpaceCareers.uk)_ It's currently maintained by the lovely people at _[UKSEDS](https://ukseds.org/)_ 
 
-_[SpaceCareers.uk](https://spacecareers.uk/)_ has everything you need to know on it. It's got a whole load of current jobs, events, and competitions, and a huge bank of 30 job profiles, 40 advice articles, and 75 interviews.
+_[SpaceCareers.uk](https://spacecareers.uk/)_ has everything you need to know on it. It's got a whole load of current jobs, events, and competitions, and a huge bank of 30 job profiles, 40 advice articles, and 75 interviews. There's probably more since I last checked.
 
 Do you have any Cornwall-specific advice?
 ==
@@ -38,7 +38,7 @@ I'd recommend checking out the Cornwall Space Cluster's [careers website](https:
 
 **Can I study on a space course in Cornwall?**
 
-Yes! You can complete a Level 4 Space Engineering Technician Apprenticeship and the Space Technology HNC and HND at Truro and Penwith College. You can find more details [here]([https://ols.mis.truro-penwith.ac.uk/WCFWebSite/Admissions/courseDetails.aspx?from=tpc&id=201000688286115](https://www.truro-penwith.ac.uk/courses/apprenticeship-standard-space-engineering-technician-l4/)).
+Yes! You can complete a Level 4 Space Engineering Technician Apprenticeship and the Space Technology HNC and HND at Truro and Penwith College. You can find more details [here](https://www.truro-penwith.ac.uk/courses/apprenticeship-standard-space-engineering-technician-l4/).
 
 Next Steps South West have also produced a map of space-related courses that you can study at college and university level right across the South West. Find it [here](https://nextstepssw.ac.uk/content/uploads/2022/10/NSSW-Space-Ed-Courses-Map.pdf).
 
