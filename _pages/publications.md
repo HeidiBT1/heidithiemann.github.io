@@ -12,6 +12,7 @@ On this page you can find a selection of my publications, talks and public outre
 
 Space skills publications
 ======
+* Joseph Dudley, **Heidi B. Thiemann** (2022), _[5 Solutions to the Space Skills Gap]([https://spaceskills.org/census-pay](https://spaceskills.org/news-post?p=_20220905-5-solutions))_, Space Skills Alliance
 * **Heidi B. Thiemann**, Joseph Dudley (2021), _[Women in the UK space sector](https://spaceskills.org/women-report)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2021), _[Pay in the UK space sector](https://spaceskills.org/census-pay)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2021), _[Demographics of the UK space sector](https://spaceskills.org/census)_, Space Skills Alliance
@@ -55,8 +56,3 @@ Examples of recorded talks and public engagement
 * September 2020 - ["Ask The Expert: Things that go Bump in the Night...Sky"](https://www.youtube.com/watch?v=fX1lfwIrHI4&list=PLar-D-A84stgVg2wxjDQaH1eAUDPdhRc3&index=8)
 * September 2020 - ["Careers Launch Online - Course Choices panel discussion"](https://www.youtube.com/watch?v=qWP9EmgGhpU)
 * July 2019 - ["Red Giant Binary Stars"](https://www.youtube.com/watch?v=DbuOpXI202E)
-
-Science-related baking
-======
-
-I love baking, and at The Open University I've taken part in every "Bake Your Research" competition. Check out my [eclipsing contact binary star cakes](https://twitter.com/heidi_teaman/status/1050045772371283979/photo/3), my attempt at baking the [PIRATE telescope](https://twitter.com/heidi_teaman/status/1194254321266896896), and my ["working from home" astronomy cake](https://twitter.com/heidi_teaman/status/1327645256607821830?s=20).
