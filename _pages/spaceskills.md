@@ -7,30 +7,27 @@ redirect_from:
   - /spaceskills
 ---
 
-I'm passionate about improving opportunities for people who want to join the space sector. I started as an undergraduate, putting thousands of hours into leading UKSEDS, the national student space society, and as the head of the SpaceCareers.uk team. 
+I'm passionate about improving opportunities for people who want to join the space sector.
 
-A few years down the line, and I'm still actively in the space skills domain. Here's a few examples of the activities I've been involved in recently.
-
-Space Skills Alliance
+[Space Skills Alliance](https://spaceskills.org)
 ======
-I co-founded the Space Skills Alliance with my good friend Joseph Dudley, which exists to tackle the space skills shortage, by collecting and publishing data and analysis, promoting and advising on best practice, and bringing key stakeholders together to collaborate and learn from each other.
+We started back in 2012 as students leading UKSEDS, the national student space society, and organising major national events, competitions, and outreach activities.
 
-We've been active since September 2019, and since then we've published analysis on skills demands for early career space jobs, the quality of space jobs, a space competencies taxonomy, and more.
+In 2015 we built SpaceCareers.uk, a careers website for young people, which has become the go-to resource for the sector, and was recognised by Prime Minister Theresa May as “a crucial service to thousands of people across the country that want to learn more about careers in the space industry”.
 
-In 2020, we launched the 2020 Space Census, which will, for the first time, establish the demographic make-up of UK space sector employees across industry, universities and government organisations. You see the first results of the [2020 Space Census here](https://spaceskills.org/census). 
+In 2019 we launched the Space Skills Alliance to address systemic problems in the sector.
 
-You can check out our other work [here](https://spaceskills.org/).
+In 2020 we published reports and analysis on skills demand, job advert quality, and skills taxonomies, as well as a toolkit of resources for better recruiting. We were also selected to conduct the first national census of the UK space sector, launched by Science Minister Amanda Solloway during World Space Week.
 
-SpaceCareers.uk
-======
-In 2017, I took over as the head of SpaceCareers.uk after over a year of volunteering for the site. Myself and my team made SpaceCareers.uk the go-to resource for the space sector, and we now have over 10,000 monthly users. We've received multiple awards for our work, from the Prime Minister, BEIS, and others. I've organised national careers events for young people, and spent countless hours improving opportunities for others who want to join the space sector.
+In 2021 we published the first comprehensive demographic statistics, the first pay data for the UK space sector, and a report on women in the UK space sector, based on the findings of the census. We also launched our library of space skills literature.
+
+In 2022 we created the Space Training Catalogue, a free directory of hundreds of training opportunities, and SpaceCRAFT, a space competencies framework.
 
 Panels and collaborations
 ======
 I'm currently involved in a number of space sector panels and organisations:
-* Member of Space Skills Advisory Panel (SSAP), advising the UK Space Agency and BEIS on skills provision
+* Member of Space Skills Advisory Panel (SSAP)
 * Member of the Cornwall Space Cluster Steering Group
-* Member of the Space Universities Network (SUN)
-* Social Media Manager for Women In Aerospace-Europe (WIA-E)
+* Volunteer for Women In Aerospace - Europe
 * Represented both the Royal Astronomical Society and The Open University in the Voice of the Future events in the House of Commons
 
