@@ -10,9 +10,6 @@ redirect_from:
 
 Hi, I'm Dr. Heidi Thiemann, Director of the Space Skills Alliance. 
 
-My name defies the _"i before e" rule_. It's German and pronouced _"Tee-man"_.
-
-
 Space Skills
 ======
 
