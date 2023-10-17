@@ -8,10 +8,12 @@ redirect_from:
 
 ---
 
-On this page you can find a selection of my publications, talks and public outreach, and science-related baking.
+On this page you can find a selection of my publications, talks, and public outreach.
 
 Space skills publications
 ======
+* **Heidi B. Thiemann**, Joseph Dudley, Will Lecky, Ewan Dallas (2023), _[Space Sector Skills Survey 2023](https://www.gov.uk/government/publications/space-sector-skills-survey-2023)_, Space Skills Alliance
+* Joseph Dudley, **Heidi B. Thiemann** (2023), _[How and why people join the UK space sector](https://spaceskills.org/census-routes)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2022), _[5 Solutions to the Space Skills Gap](https://spaceskills.org/news-post?p=_20220905-5-solutions)_, Space Skills Alliance
 * **Heidi B. Thiemann**, Joseph Dudley (2021), _[Women in the UK space sector](https://spaceskills.org/women-report)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2021), _[Pay in the UK space sector](https://spaceskills.org/census-pay)_, Space Skills Alliance
@@ -20,6 +22,14 @@ Space skills publications
 * **Heidi B. Thiemann**, Joseph Dudley (2020), _[Skills demand for early career space jobs](https://spaceskills.org/skills-demand-for-early-career-space-jobs)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2020), _[Towards a space competencies taxonomy](https://spaceskills.org/towards-a-space-competencies-taxonomy)_, Space Skills Alliance
 * Daniel Robson, Henry Lau, Áine O'Brien, Lucy Williams, Ben Sutlieff, **Heidi B. Thiemann**, Louise McCaul, George Weaver, Tracey Dickens (2019), _[Assessing the Impact of Space School UK](https://arxiv.org/abs/2006.06680)_, Proceedings of the 3rd Symposium on Space Educational Activities, pp. 138-144
+
+Space skills tools
+======
+* [The UK Space Skills Landscape Map](https://spaceskills.org/landscape)
+* [Space Skills Literature Library](https://spaceskills.org/library)
+* [SpaceCRAFT Competencies Framework](https://craft.spaceskills.org/)
+* [The Space Training Catalogue](https://training.spaceskills.org/)
+* [Space Recruitment Toolkit](https://spaceskills.org/toolkit)
 
 Space skills posters
 ======
