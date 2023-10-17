@@ -33,7 +33,8 @@ I'm currently involved in a number of space sector panels and organisations:
 * Member of the UK Telecoms Innovation Network Talent Advisory Group
 * Member of the Association for Geographic Information (AGI) Education & Skills Working Group
 * Volunteer for Women In Aerospace - Europe
-* Represented both the Royal Astronomical Society and The Open University in the Voice of the Future events in the House of Commons
+
+And previously was involved in a number of other panels and organisations:
 * Previous committee member of the Space Universities Network
 * Previous member of the Data Intensive Science Network (DISCnet) CDT steering group
-
+* Represented both the Royal Astronomical Society and The Open University in the Voice of the Future events in the House of Commons
