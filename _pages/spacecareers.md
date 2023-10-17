@@ -12,7 +12,7 @@ I get a lot of emails asking "how do I get a career in space?", "where can I do 
 
 Unfortunately, I don't have time to answer everyone individually.
 
-Luckily, my friends and I built and ran a website that will answer (nearly) all your questions... _[SpaceCareers.uk](www.SpaceCareers.uk)_ It's currently maintained by the lovely people at _[UKSEDS](https://ukseds.org/)_ 
+Luckily, my friends and I built and ran a website that will answer (nearly) all your questions... _[SpaceCareers.uk](www.SpaceCareers.uk)_. 
 
 _[SpaceCareers.uk](https://spacecareers.uk/)_ has everything you need to know on it. It's got a whole load of current jobs, events, and competitions, and a huge bank of 30 job profiles, 40 advice articles, and 75 interviews. There's probably more since I last checked.
 
@@ -50,10 +50,12 @@ Cornwall has some fantastic - but hidden - space sites and activities. Here's a 
 * Keep an eye on [Spaceport Cornwall's website](https://spaceportcornwall.com/whats-on/) for upcoming launch activites
 * Read up on the activities [Cornwall Space Cluster](https://www.cornwallspacecluster.co.uk/)
 * Attend the [Goonhilly Earth Station summer school](https://www.goonhilly.org/summer-school)
-* Visit the [Cornwall Aviation Heritage Centre](https://cornwallaviationhc.co.uk/)
 * Visit the GCHQ telecommunications exhibit at the [Museum of Global Communication](https://pkporthcurno.com/)
 * Get involved with tech events run by [Software Cornwall](https://softwarecornwall.org/events/)
 * Get involved in coding events run by [TECgirls](https://www.tecgirls.co.uk/)
 * Try out some of Spaceport Cornwall's [educational materials](https://spaceportcornwall.com/education/)
 * Try some stargazing at one of Cornwall's [dark sky sites](https://www.nationaltrust.org.uk/lists/stargazing-in-the-south-west)
 * Find out about the ancient [astronomical heritage of Cornwall](https://archaeoastronomycornwall.com/)
+
+**What about Devon?**
+I'll get to that another time...
