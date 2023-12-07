@@ -12,7 +12,7 @@ On this page you can find a selection of my publications, talks, and public outr
 
 Space skills publications
 ======
-* Sally Jordan, Sarah Bakewell, Wendy Sadler, **Heidi B. Thiemann**, Julie Wardlow, Carsten Welsch (2023), _[Women in physics in the United Kingdom: Successes, challenges, and wider diversity](https://pubs.aip.org/aip/acp/article/3040/1/050041/2922056/Women-in-physics-in-the-United-Kingdom-Successes), WOMEN IN PHYSICS: 7th IUPAP International Conference on Women in Physics
+* Sally Jordan, Sarah Bakewell, Wendy Sadler, **Heidi B. Thiemann**, Julie Wardlow, Carsten Welsch (2023), _[Women in physics in the United Kingdom: Successes, challenges, and wider diversity](https://pubs.aip.org/aip/acp/article/3040/1/050041/2922056/Women-in-physics-in-the-United-Kingdom-Successes)_, Women in Physics: 7th IUPAP International Conference on Women in Physics
 * **Heidi B. Thiemann**, Joseph Dudley, Will Lecky, Ewan Dallas (2023), _[Space Sector Skills Survey 2023](https://www.gov.uk/government/publications/space-sector-skills-survey-2023)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2023), _[How and why people join the UK space sector](https://spaceskills.org/census-routes)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2022), _[5 Solutions to the Space Skills Gap](https://spaceskills.org/news-post?p=_20220905-5-solutions)_, Space Skills Alliance
