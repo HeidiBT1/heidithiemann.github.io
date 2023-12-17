@@ -12,17 +12,18 @@ On this page you can find a selection of my publications, talks, and public outr
 
 Space skills publications
 ======
-* Sally Jordan, Sarah Bakewell, Wendy Sadler, **Heidi B. Thiemann**, Julie Wardlow, Carsten Welsch (2023), _[Women in physics in the United Kingdom: Successes, challenges, and wider diversity](https://pubs.aip.org/aip/acp/article/3040/1/050041/2922056/Women-in-physics-in-the-United-Kingdom-Successes)_, Women in Physics: 7th IUPAP International Conference on Women in Physics
-* **Heidi B. Thiemann**, Joseph Dudley, Will Lecky, Ewan Dallas (2023), _[Space Sector Skills Survey 2023](https://www.gov.uk/government/publications/space-sector-skills-survey-2023)_, Space Skills Alliance
-* Joseph Dudley, **Heidi B. Thiemann** (2023), _[How and why people join the UK space sector](https://spaceskills.org/census-routes)_, Space Skills Alliance
-* Joseph Dudley, **Heidi B. Thiemann** (2022), _[5 Solutions to the Space Skills Gap](https://spaceskills.org/news-post?p=_20220905-5-solutions)_, Space Skills Alliance
-* **Heidi B. Thiemann**, Joseph Dudley (2021), _[Women in the UK space sector](https://spaceskills.org/women-report)_, Space Skills Alliance
-* Joseph Dudley, **Heidi B. Thiemann** (2021), _[Pay in the UK space sector](https://spaceskills.org/census-pay)_, Space Skills Alliance
-* Joseph Dudley, **Heidi B. Thiemann** (2021), _[Demographics of the UK space sector](https://spaceskills.org/census)_, Space Skills Alliance
-* Joseph Dudley, **Heidi B. Thiemann** (2020), _[Assessing the quality of space job adverts](https://spaceskills.org/job-advert-quality)_, Space Skills Alliance
-* **Heidi B. Thiemann**, Joseph Dudley (2020), _[Skills demand for early career space jobs](https://spaceskills.org/skills-demand-for-early-career-space-jobs)_, Space Skills Alliance
-* Joseph Dudley, **Heidi B. Thiemann** (2020), _[Towards a space competencies taxonomy](https://spaceskills.org/towards-a-space-competencies-taxonomy)_, Space Skills Alliance
-* Daniel Robson, Henry Lau, Áine O'Brien, Lucy Williams, Ben Sutlieff, **Heidi B. Thiemann**, Louise McCaul, George Weaver, Tracey Dickens (2019), _[Assessing the Impact of Space School UK](https://arxiv.org/abs/2006.06680)_, Proceedings of the 3rd Symposium on Space Educational Activities, pp. 138-144
+* Sally Jordan, Sarah Bakewell, Wendy Sadler, **Heidi B. Thiemann**, Julie Wardlow, Carsten Welsch (2023). _[Women in physics in the United Kingdom: Successes, challenges, and wider diversity](https://pubs.aip.org/aip/acp/article/3040/1/050041/2922056/Women-in-physics-in-the-United-Kingdom-Successes)_, Women in Physics: 7th IUPAP International Conference on Women in Physics
+* **Heidi B. Thiemann**, Joseph Dudley, Will Lecky, Ewan Dallas (2023). _[Space Sector Skills Survey 2023](https://www.gov.uk/government/publications/space-sector-skills-survey-2023)_, Space Skills Alliance
+* Joseph Dudley, **Heidi B. Thiemann** (2023). _[How and why people join the UK space sector](https://spaceskills.org/census-routes)_, Space Skills Alliance
+* Joseph Dudley, **Heidi B. Thiemann** (2022). _[5 Solutions to the Space Skills Gap](https://spaceskills.org/news-post?p=_20220905-5-solutions)_, Space Skills Alliance
+* Anastasia Pesce, Artemis Westenberg, Cécile Deprez, Cessy Karina, **Heidi B. Thiemann**, Justyna Pelc, Leah-Nani Alconcel, Marcelle Laliberté, Rebecca Harwin, Xenia Pattberg (2022). _[Visibility of Female Experts](https://www.wia-europe.org/wia-e-working-groups/white-paper-visibility-of-female-experts/)_, Women In Aerospace - Europe
+* **Heidi B. Thiemann**, Joseph Dudley (2021). _[Women in the UK space sector](https://spaceskills.org/women-report)_, Space Skills Alliance
+* Joseph Dudley, **Heidi B. Thiemann** (2021). _[Pay in the UK space sector](https://spaceskills.org/census-pay)_, Space Skills Alliance
+* Joseph Dudley, **Heidi B. Thiemann** (2021). _[Demographics of the UK space sector](https://spaceskills.org/census)_, Space Skills Alliance
+* Joseph Dudley, **Heidi B. Thiemann** (2020). _[Assessing the quality of space job adverts](https://spaceskills.org/job-advert-quality)_, Space Skills Alliance
+* **Heidi B. Thiemann**, Joseph Dudley (2020). _[Skills demand for early career space jobs](https://spaceskills.org/skills-demand-for-early-career-space-jobs)_, Space Skills Alliance
+* Joseph Dudley, **Heidi B. Thiemann** (2020). _[Towards a space competencies taxonomy](https://spaceskills.org/towards-a-space-competencies-taxonomy)_, Space Skills Alliance
+* Daniel Robson, Henry Lau, Áine O'Brien, Lucy Williams, Ben Sutlieff, **Heidi B. Thiemann**, Louise McCaul, George Weaver, Tracey Dickens (2019). _[Assessing the Impact of Space School UK](https://arxiv.org/abs/2006.06680)_, Proceedings of the 3rd Symposium on Space Educational Activities, pp. 138-144
 
 Space skills tools
 ======
@@ -42,19 +43,20 @@ Astronomy publications
 ======
 My ADS publications library can be found _[here]([url](https://ui.adsabs.harvard.edu/search/q=docs(library%2FkKg8ELVUSWicsIue1eSe0w)&sort=date%20desc%2C%20bibcode%20desc&p_=0))._
 
-* **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, (2022), _Discovery of Near Contact Red Giant Eclipsing Binary Stars_, (in prep)
-*  **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster, (2022), _[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science]([https://academic.oup.com/mnras/article/502/1/1299/6105327](https://pmt-eu.hosted.exlibrisgroup.com/primo-explore/search?&vid=44OPN_VU1&lang=en_US&fromRedirectFilter=true))_, (ADASS)
-*  Jonathan McDowell, Rob Seaman, Cees Bassa, David Galada Enriquez, Oliver Hainaut, Courtney Hodgson, Matt Holman, Moriba Jah, JJ Kavelaars, Keith Poletti, Morgan Schmitz, Pat Seitzer, Jan Siminski, Rachel Street, Hossen Teimoorinia, **Heidi B. Thiemann**, Connie Walker, Jaffrey Hall, (2021), _[SATCON2 Algorithms Working Group Report](https://zenodo.org/records/5608843)_, (SATCON2)
-* **Heidi B. Thiemann**, (2021), _[Variable Stars in the SuperWASP All-Sky Survey](http://oro.open.ac.uk/78919/)_, (PhD thesis)
-* Adam McMaster, Andrew J. Norton, Hugh J. Dickinson, Heidi B. Thiemann, Ulrich C. Kolb, (2021), _[VeSPA: The SuperWASP Variable Star Photometry Archive](https://iopscience.iop.org/article/10.3847/2515-5172/ac2de8/meta)_, (Res. Notes AAS)
-* **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster, (2021), _[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science](https://academic.oup.com/mnras/article/502/1/1299/6105327)_, (MNRAS)
-* Rawls, M. L., **Heidi B. Thiemann**, Chemin, V., Walkowicz, L. M., Peel, M. W., Grange, Y. G., (2020) _[Satellite Constellation Internet Affordability and Need](https://iopscience.iop.org/article/10.3847/2515-5172/abc48e)_, (RNAAS)
-* **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb (2020), _[The stellar rotation–activity relation for a sample of SuperWASP and ASAS-SN field stars](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/stellar-rotationactivity-relation-for-a-sample-of-superwasp-and-asassn-field-stars/0B2772DE14A99FC44E73F32704D3FA8B)_, (PASA)
+* **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb (2024). _Discovery of Near Contact Red Giant Eclipsing Binary Stars_, (in prep)
+*  **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster (2022). _[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science]([https://academic.oup.com/mnras/article/502/1/1299/6105327](https://pmt-eu.hosted.exlibrisgroup.com/primo-explore/search?&vid=44OPN_VU1&lang=en_US&fromRedirectFilter=true))_, ADASS
+*  Jonathan McDowell, Rob Seaman, Cees Bassa, David Galada Enriquez, Oliver Hainaut, Courtney Hodgson, Matt Holman, Moriba Jah, JJ Kavelaars, Keith Poletti, Morgan Schmitz, Pat Seitzer, Jan Siminski, Rachel Street, Hossen Teimoorinia, **Heidi B. Thiemann**, Connie Walker, Jaffrey Hall (2021). _[SATCON2 Algorithms Working Group Report](https://zenodo.org/records/5608843)_, SATCON2
+* **Heidi B. Thiemann** (2021), _[Variable Stars in the SuperWASP All-Sky Survey](http://oro.open.ac.uk/78919/)_, The Open University
+* Adam McMaster, Andrew J. Norton, Hugh J. Dickinson, Heidi B. Thiemann, Ulrich C. Kolb (2021). _[VeSPA: The SuperWASP Variable Star Photometry Archive](https://iopscience.iop.org/article/10.3847/2515-5172/ac2de8/meta)_, Res. Notes AAS
+* **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster (2021). _[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science](https://academic.oup.com/mnras/article/502/1/1299/6105327)_, MNRAS
+* Rawls, M. L., **Heidi B. Thiemann**, Chemin, V., Walkowicz, L. M., Peel, M. W., Grange, Y. G. (2020). _[Satellite Constellation Internet Affordability and Need](https://iopscience.iop.org/article/10.3847/2515-5172/abc48e)_, RNAAS
+* **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb (2020). _[The stellar rotation–activity relation for a sample of SuperWASP and ASAS-SN field stars](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/stellar-rotationactivity-relation-for-a-sample-of-superwasp-and-asassn-field-stars/0B2772DE14A99FC44E73F32704D3FA8B)_, PASA
 
 Astronomy posters
 ======
 * _[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science](https://stemforbritain.org.uk/wp-content/uploads/2021/03/HEIDI_THIEMANN_2021_POSTER.pdf)_, 2021, STEM for BRITAIN 2021
 * _[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science](https://adass2020.es/static/ftp/P7-166/P7-166.pdf)_, 2020, ADASS XXX
+* _[Red Giant Binary Stars: A new discovery?](https://oro.open.ac.uk/71335/1/HThiemann.pdf)_, 2020, The Open University
 * _[Red novae candidates: An investigation of long-period near-contact giant binaries](https://ras.ac.uk/poster-contest/heidi-thiemann)_, 2020, RAS Early Career Online Poster Exhibition
 * _[The rotation-activity relation](https://nam2019.org/posters/details/32/160)_, 2019, National Astronomy Meeting
 * _[Initial results of the rotation-activity relation](https://www.cosmos.esa.int/documents/332006/1602912/AbstractBook.pdf)_, 2018, Time-Domain Astronomy: A High Energy View
