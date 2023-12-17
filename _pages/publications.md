@@ -26,6 +26,7 @@ Space skills publications
 
 Space skills tools
 ======
+* [The Space Skills Problem Map](https://spaceskills.org/problem-map)
 * [The UK Space Skills Landscape Map](https://spaceskills.org/landscape)
 * [Space Skills Literature Library](https://spaceskills.org/library)
 * [SpaceCRAFT Competencies Framework](https://craft.spaceskills.org/)
@@ -39,13 +40,16 @@ Space skills posters
 
 Astronomy publications
 ======
+My ADS publications library can be found _[here]([url](https://ui.adsabs.harvard.edu/search/q=docs(library%2FkKg8ELVUSWicsIue1eSe0w)&sort=date%20desc%2C%20bibcode%20desc&p_=0))._
+
 * **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, (2022), _Discovery of Near Contact Red Giant Eclipsing Binary Stars_, (in prep)
+*  **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster, (2022), _[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science]([https://academic.oup.com/mnras/article/502/1/1299/6105327](https://pmt-eu.hosted.exlibrisgroup.com/primo-explore/search?&vid=44OPN_VU1&lang=en_US&fromRedirectFilter=true))_, (ADASS)
+*  Jonathan McDowell, Rob Seaman, Cees Bassa, David Galada Enriquez, Oliver Hainaut, Courtney Hodgson, Matt Holman, Moriba Jah, JJ Kavelaars, Keith Poletti, Morgan Schmitz, Pat Seitzer, Jan Siminski, Rachel Street, Hossen Teimoorinia, **Heidi B. Thiemann**, Connie Walker, Jaffrey Hall, (2021), _[SATCON2 Algorithms Working Group Report](https://zenodo.org/records/5608843)_, (SATCON2)
 * **Heidi B. Thiemann**, (2021), _[Variable Stars in the SuperWASP All-Sky Survey](http://oro.open.ac.uk/78919/)_, (PhD thesis)
 * Adam McMaster, Andrew J. Norton, Hugh J. Dickinson, Heidi B. Thiemann, Ulrich C. Kolb, (2021), _[VeSPA: The SuperWASP Variable Star Photometry Archive](https://iopscience.iop.org/article/10.3847/2515-5172/ac2de8/meta)_, (Res. Notes AAS)
 * **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster, (2021), _[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science](https://academic.oup.com/mnras/article/502/1/1299/6105327)_, (MNRAS)
-* **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster, (2020), _SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science_, to appear in: Proceedings of ADASS (ASP)
-* Rawls, M. L., **Heidi B. Thiemann**, Chemin, V., Walkowicz, L. M., Peel, M. W., Grange, Y. G., (2020) _[Satellite Constellation Internet Affordability and Need](https://iopscience.iop.org/article/10.3847/2515-5172/abc48e)_, RNAAS
-* **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb (2020), _[The stellar rotation–activity relation for a sample of SuperWASP and ASAS-SN field stars](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/stellar-rotationactivity-relation-for-a-sample-of-superwasp-and-asassn-field-stars/0B2772DE14A99FC44E73F32704D3FA8B)_, PASA
+* Rawls, M. L., **Heidi B. Thiemann**, Chemin, V., Walkowicz, L. M., Peel, M. W., Grange, Y. G., (2020) _[Satellite Constellation Internet Affordability and Need](https://iopscience.iop.org/article/10.3847/2515-5172/abc48e)_, (RNAAS)
+* **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb (2020), _[The stellar rotation–activity relation for a sample of SuperWASP and ASAS-SN field stars](https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/stellar-rotationactivity-relation-for-a-sample-of-superwasp-and-asassn-field-stars/0B2772DE14A99FC44E73F32704D3FA8B)_, (PASA)
 
 Astronomy posters
 ======
@@ -57,6 +61,7 @@ Astronomy posters
 
 Examples of recorded talks and public engagement
 ======
+* December 2023 - ["Attracting, Developing, and Retaining the UK's Space Workforce](https://www.youtube.com/live/CjOxSKISIuM?si=3AQgytyqtDqLHLu0&t=19815)
 * July 2022 - ["NEC Presents: Careers in space"](https://www.youtube.com/watch?v=c1R9H2jdm_4)
 * November 2021 - ["BIG GUEST"](https://www.bbc.co.uk/programmes/p0b756h1)
 * November 2021 - ["Thinking Women"](https://www.youtube.com/watch?v=rirh_ZpfEn0)
