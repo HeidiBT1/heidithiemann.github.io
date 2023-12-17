@@ -44,7 +44,7 @@ Astronomy publications
 My ADS publications library can be found _[here]([url](https://ui.adsabs.harvard.edu/search/q=docs(library%2FkKg8ELVUSWicsIue1eSe0w)&sort=date%20desc%2C%20bibcode%20desc&p_=0))._
 
 * **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb (2024). _Discovery of Near Contact Red Giant Eclipsing Binary Stars_, (in prep)
-*  **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster (2022). _[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science]([https://academic.oup.com/mnras/article/502/1/1299/6105327](https://pmt-eu.hosted.exlibrisgroup.com/primo-explore/search?&vid=44OPN_VU1&lang=en_US&fromRedirectFilter=true))_, ADASS
+*  **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster (2022). _[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science](https://pmt-eu.hosted.exlibrisgroup.com/primo-explore/search?&vid=44OPN_VU1&lang=en_US&fromRedirectFilter=true)_, ADASS
 *  Jonathan McDowell, Rob Seaman, Cees Bassa, David Galada Enriquez, Oliver Hainaut, Courtney Hodgson, Matt Holman, Moriba Jah, JJ Kavelaars, Keith Poletti, Morgan Schmitz, Pat Seitzer, Jan Siminski, Rachel Street, Hossen Teimoorinia, **Heidi B. Thiemann**, Connie Walker, Jaffrey Hall (2021). _[SATCON2 Algorithms Working Group Report](https://zenodo.org/records/5608843)_, SATCON2
 * **Heidi B. Thiemann** (2021), _[Variable Stars in the SuperWASP All-Sky Survey](http://oro.open.ac.uk/78919/)_, The Open University
 * Adam McMaster, Andrew J. Norton, Hugh J. Dickinson, Heidi B. Thiemann, Ulrich C. Kolb (2021). _[VeSPA: The SuperWASP Variable Star Photometry Archive](https://iopscience.iop.org/article/10.3847/2515-5172/ac2de8/meta)_, Res. Notes AAS
