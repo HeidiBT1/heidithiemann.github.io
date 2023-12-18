@@ -16,6 +16,7 @@ Space skills publications
 * Joseph Dudley, **Heidi B. Thiemann** (2023). _[How and why people join the UK space sector](https://spaceskills.org/census-routes)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2022). _[5 Solutions to the Space Skills Gap](https://spaceskills.org/news-post?p=_20220905-5-solutions)_, Space Skills Alliance
 * **Heidi B. Thiemann**, Joseph Dudley (2021). _[Women in the UK space sector](https://spaceskills.org/women-report)_, Space Skills Alliance
+* Catarina Baldaia, Alex Godfrey, Joseph Dudley, **Heidi B. Thiemann** (2021). _The UK Space Skills Gap_, _AEROSPACE Magazine_, Vol.48 (No. 5, May), pp.26-29
 * Joseph Dudley, **Heidi B. Thiemann** (2021). _[Pay in the UK space sector](https://spaceskills.org/census-pay)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2021). _[Demographics of the UK space sector](https://spaceskills.org/census)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2020). _[Assessing the quality of space job adverts](https://spaceskills.org/job-advert-quality)_, Space Skills Alliance
