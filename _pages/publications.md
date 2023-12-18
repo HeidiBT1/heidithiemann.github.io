@@ -12,18 +12,15 @@ On this page you can find a selection of my publications, talks, and public outr
 
 Space skills publications
 ======
-* Sally Jordan, Sarah Bakewell, Wendy Sadler, **Heidi B. Thiemann**, Julie Wardlow, Carsten Welsch (2023). _[Women in physics in the United Kingdom: Successes, challenges, and wider diversity](https://pubs.aip.org/aip/acp/article/3040/1/050041/2922056/Women-in-physics-in-the-United-Kingdom-Successes)_, Women in Physics: 7th IUPAP International Conference on Women in Physics
 * **Heidi B. Thiemann**, Joseph Dudley, Will Lecky, Ewan Dallas (2023). _[Space Sector Skills Survey 2023](https://www.gov.uk/government/publications/space-sector-skills-survey-2023)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2023). _[How and why people join the UK space sector](https://spaceskills.org/census-routes)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2022). _[5 Solutions to the Space Skills Gap](https://spaceskills.org/news-post?p=_20220905-5-solutions)_, Space Skills Alliance
-* Anastasia Pesce, Artemis Westenberg, Cécile Deprez, Cessy Karina, **Heidi B. Thiemann**, Justyna Pelc, Leah-Nani Alconcel, Marcelle Laliberté, Rebecca Harwin, Xenia Pattberg (2022). _[Visibility of Female Experts](https://www.wia-europe.org/wia-e-working-groups/white-paper-visibility-of-female-experts/)_, Women In Aerospace - Europe
 * **Heidi B. Thiemann**, Joseph Dudley (2021). _[Women in the UK space sector](https://spaceskills.org/women-report)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2021). _[Pay in the UK space sector](https://spaceskills.org/census-pay)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2021). _[Demographics of the UK space sector](https://spaceskills.org/census)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2020). _[Assessing the quality of space job adverts](https://spaceskills.org/job-advert-quality)_, Space Skills Alliance
 * **Heidi B. Thiemann**, Joseph Dudley (2020). _[Skills demand for early career space jobs](https://spaceskills.org/skills-demand-for-early-career-space-jobs)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2020). _[Towards a space competencies taxonomy](https://spaceskills.org/towards-a-space-competencies-taxonomy)_, Space Skills Alliance
-* Daniel Robson, Henry Lau, Áine O'Brien, Lucy Williams, Ben Sutlieff, **Heidi B. Thiemann**, Louise McCaul, George Weaver, Tracey Dickens (2019). _[Assessing the Impact of Space School UK](https://arxiv.org/abs/2006.06680)_, Proceedings of the 3rd Symposium on Space Educational Activities, pp. 138-144
 
 Space skills tools
 ======
@@ -38,6 +35,11 @@ Space skills posters
 ======
 * _[Diversity in student space activities in the UK](https://www.hou.usra.edu/meetings/lpsc2019/eposter/2380.pdf)_, 2019, 50th Lunar and Planetary Science Conference
 
+Space education/diversity publications
+======
+* Sally Jordan, Sarah Bakewell, Wendy Sadler, **Heidi B. Thiemann**, Julie Wardlow, Carsten Welsch (2023). _[Women in physics in the United Kingdom: Successes, challenges, and wider diversity](https://pubs.aip.org/aip/acp/article/3040/1/050041/2922056/Women-in-physics-in-the-United-Kingdom-Successes)_, Women in Physics: 7th IUPAP International Conference on Women in Physics
+* Anastasia Pesce, Artemis Westenberg, Cécile Deprez, Cessy Karina, **Heidi B. Thiemann**, Justyna Pelc, Leah-Nani Alconcel, Marcelle Laliberté, Rebecca Harwin, Xenia Pattberg (2022). _[Visibility of Female Experts](https://www.wia-europe.org/wia-e-working-groups/white-paper-visibility-of-female-experts/)_, Women In Aerospace - Europe
+* Daniel Robson, Henry Lau, Áine O'Brien, Lucy Williams, Ben Sutlieff, **Heidi B. Thiemann**, Louise McCaul, George Weaver, Tracey Dickens (2019). _[Assessing the Impact of Space School UK](https://arxiv.org/abs/2006.06680)_, Proceedings of the 3rd Symposium on Space Educational Activities, pp. 138-144
 
 Astronomy publications
 ======
