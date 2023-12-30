@@ -11,13 +11,9 @@ main:
     
   - title: "Publications"
     url: /publications/
-    
-#  - title: "Public Engagement"
-#    url: /public-engagement/
 
   - title: "So you want a career in space?"
     url: /spacecareers/
 
-  
-  #- title: "Guide"
-  #  url: /markdown/
+   - title: "Dartmoor 2024"
+    url: /dartmoor/
