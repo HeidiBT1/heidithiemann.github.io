@@ -7,8 +7,6 @@ redirect_from:
   - /spaceskills
 ---
 
-I'm passionate about improving opportunities for people who want to join the space sector.
-
 [Space Skills Alliance](https://spaceskills.org)
 ======
 I co-founded the Space Skills Alliance with my good friend Joseph Dudley, which exists to tackle the space skills shortage, by collecting and publishing data and analysis, promoting and advising on best practice, and bringing key stakeholders together to collaborate and learn from each other.
