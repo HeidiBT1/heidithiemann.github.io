@@ -7,7 +7,7 @@ redirect_from:
   - /dartmoor
 ---
 
-I need something to in 2024 so I've decided to trek to as many tors as possible on Dartmoor.
+I need something to do in 2024 that isn't work, so I've decided to trek to as many tors as possible on Dartmoor.
 
 Tors are essentially the ancient granite outcrops scattered across Dartmoor. Some tower imposingly across the moors, others are layers of rocks balancing dangerously, and others barely poke out of the ground. Two tors (and two of my favourites) reach the 610 m required to be a mountain. But depending on who you ask and what you include as a tor, there's anywhere from about 100 to 1,000 tors on Dartmoor. The best list I've found is from [Tors Of Dartmoor](https://www.torsofdartmoor.co.uk/index.php) who list 917 tors.
 
