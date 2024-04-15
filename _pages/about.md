@@ -15,7 +15,7 @@ P.S. Thiemann is pronounced 'tee-man'.
 Space skills
 ======
 
-I co-direct the [Space Skills Alliance](https://spaceskills.org/), a think-tank and consultancy addressing the UK's space skills shortage. We publish research, data, and expert analysis for the UK and Europe and generally try to make graphs that looks better than your average pie chart. I also support [Goonhilly Earth Station](https://www.goonhilly.org/) with bid writing, training, and getting excited about communicating with spacecraft. Previously, I was a project manager at Truro & Penwith College. From 2021-2022 I lead the development of the first Space Technologies HNC/HND and delivered the first space apprenticeship programme in Cornwall.
+I co-direct the [Space Skills Alliance](https://spaceskills.org/), a think-tank and consultancy addressing the UK's space skills shortage. We publish research, data, and expert analysis for the UK and Europe and generally try to make graphs that looks better than your average pie chart. I also support [Goonhilly Earth Station](https://www.goonhilly.org/) with bid writing and training. Previously, I was a project manager at Truro & Penwith College. From 2021-2022 I lead the development of the first Space Technologies HNC/HND and delivered the first space apprenticeship programme in Cornwall.
 
 Astronomy research
 ======
