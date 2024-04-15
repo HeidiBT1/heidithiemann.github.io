@@ -59,4 +59,8 @@ Cornwall has some fantastic - but hidden - space sites and activities. Here's a 
 * Try some stargazing at one of Cornwall's [dark sky sites](https://www.nationaltrust.org.uk/lists/stargazing-in-the-south-west)
 * Find out about the ancient [astronomical heritage of Cornwall](https://archaeoastronomycornwall.com/)
 
-I'll add some space sites and activities for Devon soon.
+Here's some sites and activities for Devon (I'll add more to this soon):
+* Learn about Our World From Space with [Exeter Science Centre](https://exetersciencecentre.org/events/)
+* Visit the [Norman Lockyer Observatory](https://normanlockyer.com/)
+* Visit the [Poltimore Inn Observatory]([https://normanlockyer.com/](https://www.thepoltimoreinnnorthmolton.co.uk/stargazing-observatory)
+* Try some stargazing at one of Devon's [dark sky sites]([https://www.nationaltrust.org.uk/lists/stargazing-in-the-south-west](https://gostargazing.co.uk/regions/county/devon/)
