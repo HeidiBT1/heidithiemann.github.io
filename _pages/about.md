@@ -12,7 +12,7 @@ I'm Heidi, I work in the space industry and live in Devon. This website is an ex
 
 P.S. Thiemann is pronounced 'tee-man'.
 
-Space skills
+Space skills work
 ======
 
 I co-direct the [Space Skills Alliance](https://spaceskills.org/), a think-tank and consultancy addressing the UK's space skills shortage. We publish research, data, and expert analysis for the UK and Europe and generally try to make graphs that looks better than your average pie chart. I also support [Goonhilly Earth Station](https://www.goonhilly.org/) with bid writing and training. Previously, I was a project manager at Truro & Penwith College. From 2021-2022 I lead the development of the first Space Technologies HNC/HND and delivered the first space apprenticeship programme in Cornwall.
