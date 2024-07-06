@@ -70,14 +70,14 @@ Astronomy posters
 
 Examples of recorded talks and public engagement
 ======
-* December 2023 - ["Attracting, Developing, and Retaining the UK's Space Workforce](https://www.youtube.com/live/CjOxSKISIuM?si=3AQgytyqtDqLHLu0&t=19815)
-* July 2022 - ["NEC Presents: Careers in space"](https://www.youtube.com/watch?v=c1R9H2jdm_4)
-* November 2021 - ["BIG GUEST"](https://www.bbc.co.uk/programmes/p0b756h1)
-* November 2021 - ["Thinking Women"](https://www.youtube.com/watch?v=rirh_ZpfEn0)
-* October 2021 - ["Women in Space: Ada Lovelace Day"](https://www.youtube.com/watch?v=kydB42Cy2Kw)
-* October 2021 - ["Women who are out of this world: Heidi Thiemann"](https://www.youtube.com/watch?v=_60-Fv0n-pQ)
-* January 2021 - ["Space Talk: Searching for Strange Stars!"](https://www.youtube.com/watch?v=PDyFZjfqXgk)
-* October 2020 - ["An expert discussion about Venus"](https://www.youtube.com/watch?v=dhhvbOaayhY)
-* September 2020 - ["Ask The Expert: Things that go Bump in the Night...Sky"](https://www.youtube.com/watch?v=fX1lfwIrHI4&list=PLar-D-A84stgVg2wxjDQaH1eAUDPdhRc3&index=8)
-* September 2020 - ["Careers Launch Online - Course Choices panel discussion"](https://www.youtube.com/watch?v=qWP9EmgGhpU)
-* July 2019 - ["Red Giant Binary Stars"](https://www.youtube.com/watch?v=DbuOpXI202E)
+* ["Attracting, Developing, and Retaining the UK's Space Workforce"](https://www.youtube.com/live/CjOxSKISIuM?si=3AQgytyqtDqLHLu0&t=19815), December 2023
+* ["NEC Presents: Careers in space"](https://www.youtube.com/watch?v=c1R9H2jdm_4), July 2022
+* ["BIG GUEST"](https://www.bbc.co.uk/programmes/p0b756h1), November 2021
+* ["Thinking Women"](https://www.youtube.com/watch?v=rirh_ZpfEn0), November 2021
+* ["Women in Space: Ada Lovelace Day"](https://www.youtube.com/watch?v=kydB42Cy2Kw), October 2021
+* ["Women who are out of this world: Heidi Thiemann"](https://www.youtube.com/watch?v=_60-Fv0n-pQ), October 2021
+* ["Space Talk: Searching for Strange Stars!"](https://www.youtube.com/watch?v=PDyFZjfqXgk), January 2021
+* ["An expert discussion about Venus"](https://www.youtube.com/watch?v=dhhvbOaayhY), October 2020
+* ["Ask The Expert: Things that go Bump in the Night...Sky"](https://www.youtube.com/watch?v=fX1lfwIrHI4&list=PLar-D-A84stgVg2wxjDQaH1eAUDPdhRc3&index=8), September 2020
+* ["Careers Launch Online - Course Choices panel discussion"](https://www.youtube.com/watch?v=qWP9EmgGhpU), September 2020
+* ["Red Giant Binary Stars"](https://www.youtube.com/watch?v=DbuOpXI202E), July 2019
