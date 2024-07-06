@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Space Skills"
+title: ""
 permalink: /spaceskills/
 author_profile: true
 redirect_from:
