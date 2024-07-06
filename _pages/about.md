@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Heidi, I work in the space industry and live in Devon. When I'm not working, I can usually be found hiking across East Devon and Dartmoor. This website is an excuse to note things down so I don't forget what I've done with my career.
+I'm Heidi, I work in the space industry. When I'm not working, I can usually be found hiking across East Devon and Dartmoor. This website is an excuse to note things down so I don't forget what I've done with my career.
 
 P.S. Thiemann is pronounced 'tee-man'.
 
