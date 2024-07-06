@@ -9,7 +9,7 @@ redirect_from:
 
 [Space Skills Alliance](https://spaceskills.org)
 ======
-I co-founded the Space Skills Alliance with my good friend Joseph Dudley, which exists to tackle the space skills shortage, by collecting and publishing data and analysis, promoting and advising on best practice, and bringing key stakeholders together to collaborate and learn from each other.
+I co-founded the Space Skills Alliance with my good friend Joseph Dudley. SSA exists to tackle the space skills shortage, by collecting and publishing data and analysis, promoting and advising on best practice, and bringing key stakeholders together to collaborate and learn from each other.
 
 We started back in 2012 as students leading UKSEDS, the national student space society, and organising major national events, competitions, and outreach activities.
 
@@ -32,9 +32,11 @@ I'm currently involved in a number of space sector panels and organisations:
 * Member of the Cornwall Space Cluster Steering Group
 * Member of the UK Telecoms Innovation Network Talent Advisory Group
 * Member of the Association for Geographic Information (AGI) Education & Skills Working Group
-* Volunteer for Women In Aerospace - Europe
+* Co-lead of the South West Aerospace Network
+* Contributing Member to the Future Space Technologies Astronomy Impact Working Group (FST WG) at the IAU Centre for the Protection of Dark and Quiet Sky (CPS) Policy Hub
 
 And previously was involved in a number of other panels and organisations:
-* Previous committee member of the Space Universities Network
-* Previous member of the Data Intensive Science Network (DISCnet) CDT steering group
+* Volunteer for Women In Aerospace - Europe
+* Committee member of the Space Universities Network
+* Member of the Data Intensive Science Network (DISCnet) CDT steering group
 * Represented both the Royal Astronomical Society and The Open University in the Voice of the Future events in the House of Commons
