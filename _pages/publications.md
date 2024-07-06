@@ -12,6 +12,7 @@ On this page you can find a selection of my publications, talks, and public outr
 
 Space skills publications
 ======
+* **Heidi B. Thiemann**, Joseph Dudley (2024). _[What is the government doing about space skills?](https://spaceskills.org/what-is-government-doing)_, Space Skills Alliance
 * **Heidi B. Thiemann**, Joseph Dudley, Will Lecky, Ewan Dallas (2023). _[Space Sector Skills Survey 2023](https://www.gov.uk/government/publications/space-sector-skills-survey-2023)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2023). _[How and why people join the UK space sector](https://spaceskills.org/census-routes)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2022). _[5 Solutions to the Space Skills Gap](https://spaceskills.org/news-post?p=_20220905-5-solutions)_, Space Skills Alliance
@@ -33,6 +34,8 @@ Space skills tools
 
 Space skills posters and articles
 ======
+* _How and why people join the UK space sector: Results of the 2024 Space Census_, 2024, International Astronautial Congress
+* _The role of first degrees in encouraging students to enter the space sector: Analysis by the ASTRAIOS project_, 2024, International Astronautial Congress
 * _[The UK Space Skills Problem Landscape](https://www.spaceconference.co.uk/ukspaceconference2023/posterzone)_, 2023, UK Space Conference
 * Catarina Baldaia, Alex Godfrey, Joseph Dudley, **Heidi B. Thiemann** (2021). _The UK Space Skills Gap_, _AEROSPACE Magazine_, Vol.48 (No. 5, May), pp.26-29
 * _[Diversity in student space activities in the UK](https://www.hou.usra.edu/meetings/lpsc2019/eposter/2380.pdf)_, 2019, 50th Lunar and Planetary Science Conference
