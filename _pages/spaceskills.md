@@ -23,7 +23,9 @@ In 2021 we published the first comprehensive demographic statistics, the first p
 
 In 2022 we created the Space Training Catalogue, a free directory of hundreds of training opportunities, and SpaceCRAFT, a space competencies framework.
 
-In 2023 we published the Space Sector Skills Survey, and a report on the routes into the UK space sector, based on the findings of the census.
+In 2023 we published the Space Sector Skills Survey, and a report on the routes into the UK space sector, based on the findings of the census, and started work on the EU Horizon ASTRAIOS project.
+
+In 2024 we launched the 2024 Space Census, the second national census of the UK space sector.
 
 Panels and collaborations
 ======
