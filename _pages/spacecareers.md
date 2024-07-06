@@ -8,13 +8,11 @@ redirect_from:
 ---
 That's fantastic! Working in the space sector is one of the best things I've done so far.
 
-I get a lot of emails asking "how do I get a career in space?", "where can I do space work experience?", "what do I need to study to work in the space sector?"
-
-Unfortunately, I don't have time to answer everyone individually.
+I get a lot of emails asking "how do I get a career in space?", "where can I do space work experience?", "what do I need to study to work in the space sector?" Unfortunately, I don't have time to answer everyone individually.
 
 Luckily, my friends and I built and ran a website that will answer (nearly) all your questions... _[SpaceCareers.uk](www.SpaceCareers.uk)_. 
 
-_[SpaceCareers.uk](https://spacecareers.uk/)_ has everything you need to know on it. It's got a whole load of current jobs, events, and competitions, and a huge bank of 30 job profiles, 40 advice articles, and 75 interviews. There's probably more since I last checked.
+_[SpaceCareers.uk](https://spacecareers.uk/)_ has a whole load of current jobs, events, and competitions, and a huge bank of 30 job profiles, 40 advice articles, and 75 interviews. There's probably more since I last checked.
 
 Do you have any Devon and Cornwall-specific advice?
 ==
@@ -29,13 +27,13 @@ The Cornwall Space Cluster has made a lovely [map](https://www.cornwallspaceclus
 
 **Where can I find out find myself a space job in Devon or Cornwall?**
 
-For Cornwall, I'd recommend checking out the Cornwall Space Cluster's [careers website](https://www.cornwallspacecluster.co.uk/careers/). There's currently no Devon equivalent.
+For Cornwall, I'd recommend checking out the Cornwall Space Cluster's [careers website](https://www.cornwallspacecluster.co.uk/careers/). There's currently no Devon equivalent. Again, _[SpaceCareers.uk](https://spacecareers.uk/)_ is a good bet.
 
 **Where can I do space work experience or an internship in Devon or Cornwall?**
 
 * In Cornwall, [Goonhilly Earth Station](https://www.goonhilly.org/careers) and [Spaceport Cornwall](https://spaceportcornwall.com/) tend to offer annual in-person work experience for school-aged students.
-* [Mission to Mars at Software Cornwall](https://softwarecornwall.org/mission-to-mars/) for those interested in software and robotics.
-* In Devon, [The Met Office](https://www.metoffice.gov.uk/about-us/careers/apprentices-graduates-and-placements) has a range of in-person and virtual opportunities for school and university students.
+* [Mission to Mars at Tech Cornwall](https://techcornwall.co.uk/mission-to-mars/) for those interested in software and robotics.
+* In Devon, [The Met Office](https://careers.metoffice.gov.uk/early-careers/work-experience) has a range of opportunities for school and university students.
 * [SPIN](https://sa.catapult.org.uk/work-with-us/space-placements-industry-spin/) or Space Placements in INdustry (for university and college students) is a nation-wide programme that sometimes has opportunities in the counties.
 * Springpod offers [virtual work experience](https://www.springpod.com/virtual-work-experience) for school-aged students and is a great option if you can't find an in-person opportunity. There's everything from spacecraft manufacture to using satellite data.
 
@@ -53,7 +51,7 @@ Cornwall has some fantastic - but hidden - space sites and activities. Here's a 
 * Keep an eye on [Spaceport Cornwall's website](https://spaceportcornwall.com/whats-on/) for upcoming launch activites
 * Read up on the activities [Cornwall Space Cluster](https://www.cornwallspacecluster.co.uk/)
 * Attend the [Goonhilly Earth Station summer school](https://www.goonhilly.org/summer-school)
-* Get involved with tech events run by [Software Cornwall](https://softwarecornwall.org/events/)
+* Get involved with tech events run by [Tech Cornwall](https://techcornwall.co.uk/events/)
 * Get involved in coding events run by [TECgirls](https://www.tecgirls.co.uk/)
 * Try out some of Spaceport Cornwall's [educational materials](https://spaceportcornwall.com/education/)
 * Try some stargazing at one of Cornwall's [dark sky sites](https://www.nationaltrust.org.uk/lists/stargazing-in-the-south-west)
@@ -64,3 +62,4 @@ Here's some sites and activities for Devon (I'll add more to this soon):
 * Visit the [Norman Lockyer Observatory](https://normanlockyer.com/)
 * Visit the [Poltimore Inn Observatory](https://www.thepoltimoreinnnorthmolton.co.uk/stargazing-observatory)
 * Try some stargazing at one of Devon's [dark sky sites](https://gostargazing.co.uk/regions/county/devon/)
+* Join the [Exmoor Dark Skies Festival](https://www.exmoor-nationalpark.gov.uk/exmoor-for-everyone/stargazing-and-dark-skies/exmoor-dark-skies-festival)
