@@ -7,9 +7,9 @@ redirect_from:
   - /spaceskills
 ---
 
-[Space Skills Alliance](https://spaceskills.org)
+Space Skills Alliance
 ======
-I co-founded the Space Skills Alliance with my good friend Joseph Dudley. SSA exists to tackle the space skills shortage, by collecting and publishing data and analysis, promoting and advising on best practice, and bringing key stakeholders together to collaborate and learn from each other.
+I co-founded the [Space Skills Alliance](https://spaceskills.org) with my good friend Joseph Dudley. SSA exists to tackle the space skills shortage, by collecting and publishing data and analysis, promoting and advising on best practice, and bringing key stakeholders together to collaborate and learn from each other.
 
 We started back in 2012 as students leading UKSEDS, the national student space society, and organising major national events, competitions, and outreach activities.
 
