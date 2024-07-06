@@ -25,7 +25,7 @@ My [PhD research](https://heidithiemann.github.io/research/) focused on a range 
 I've only come to your website to find out about a career in space
 ======
 
-[You're in luck...](https://heidithiemann.github.io/spacecareers/)
+[You're in luck, I've got some useful links to share...](https://heidithiemann.github.io/spacecareers/)
 
 
-###### _Last updated: 31st December 2023_ 
+###### _Last updated: 6th July 2024_ 
