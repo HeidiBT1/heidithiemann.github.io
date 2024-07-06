@@ -11,7 +11,7 @@ Space Skills Alliance
 ======
 I co-founded the [Space Skills Alliance](https://spaceskills.org) with my good friend Joseph Dudley. SSA exists to tackle the space skills shortage, by collecting and publishing data and analysis, promoting and advising on best practice, and bringing key stakeholders together to collaborate and learn from each other.
 
-We started back in 2012 as students leading UKSEDS, the national student space society, and organising major national events, competitions, and outreach activities.
+I started back in 2014 as a student leading UKSEDS, the national student space society, and organising major national events, competitions, and outreach activities.
 
 In 2015 we built SpaceCareers.uk, a careers website for young people, which has become the go-to resource for the sector, and was recognised by Prime Minister Theresa May as “a crucial service to thousands of people across the country that want to learn more about careers in the space industry”.
 
