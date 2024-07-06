@@ -27,5 +27,6 @@ I've only come to your website to find out about a career in space
 
 [You're in luck, I've got some useful links to share...](https://heidithiemann.github.io/spacecareers/)
 
+When I'm not working, I can usually be found hiking across East Devon and Dartmoor.
 
 ###### _Last updated: 6th July 2024_ 
