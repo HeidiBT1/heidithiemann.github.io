@@ -12,6 +12,8 @@ On this page you can find a selection of my publications, talks, and public outr
 
 Space skills publications
 ======
+* Joseph Dudley, **Heidi B. Thiemann** (2025). _[New estimates for the UK’s regional space workforce](https://spaceskills.org/dth)_, Space Skills Alliance
+* Joseph Dudley, **Heidi B. Thiemann** (2024). _[Space Skills Roapmap 2030](https://spaceskills.org/space-skills-roadmap-2030)_, Space Skills Alliance
 * **Heidi B. Thiemann**, Joseph Dudley (2024). _[What is the government doing about space skills?](https://spaceskills.org/what-is-government-doing)_, Space Skills Alliance
 * **Heidi B. Thiemann**, Joseph Dudley, Will Lecky, Ewan Dallas (2023). _[Space Sector Skills Survey 2023](https://www.gov.uk/government/publications/space-sector-skills-survey-2023)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2023). _[How and why people join the UK space sector](https://spaceskills.org/census-routes)_, Space Skills Alliance
@@ -34,8 +36,8 @@ Space skills tools
 
 Space skills posters and articles
 ======
-* ASTRAIOS Project (2024). _How and why people join the UK space sector: Results of the 2024 Space Census_, International Astronautial Congress
-* **Heidi B. Thiemann**, Joseph Dudley (2024). _The role of first degrees in encouraging students to enter the space sector: Analysis by the ASTRAIOS project_, International Astronautial Congress
+* **Heidi B. Thiemann**, Joseph Dudley (2024). _How and why people join the UK space sector: Results of the 2024 Space Census_, International Astronautial Congress
+* ASTRAIOS Project (2024). _The role of first degrees in encouraging students to enter the space sector: Analysis by the ASTRAIOS project_, International Astronautial Congress
 * Joseph Dudley, **Heidi B. Thiemann** (2023). _[The UK Space Skills Problem Landscape](https://www.spaceconference.co.uk/ukspaceconference2023/posterzone)_, UK Space Conference
 * Catarina Baldaia, Alex Godfrey, Joseph Dudley, **Heidi B. Thiemann** (2021). _The UK Space Skills Gap_, _AEROSPACE Magazine_, Vol.48 (No. 5, May), pp.26-29
 * Aine O'Brien, Anuradha Damale, Joseph Dudley, Lewis Lappin, **Heidi B. Thiemann** (2019). _[Diversity in student space activities in the UK](https://www.hou.usra.edu/meetings/lpsc2019/eposter/2380.pdf)_, 50th Lunar and Planetary Science Conference
